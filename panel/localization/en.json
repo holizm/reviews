@@ -1,0 +1,16 @@
+{
+    "reviewsCode": "Code",
+    "reviewsContent": "Review",
+    "reviewsDescription": "Description",
+    "reviewsMaximumScore": "Maximum score",
+    "reviewsMinimumScore": "Minimum score",
+    "reviewsRatingCriteria": "Rating criteria",
+    "reviewsRatingCriterion": "Rating criterion",
+    "reviewsRecommended": "Recommended",
+    "reviewsReviewDate": "Review date",
+    "reviewsReviewer": "Reviewer",
+    "reviewsReviews": "Reviews",
+    "reviewsState": "State",
+    "reviewsSubject": "Reviewed item",
+    "reviewsVerified": "Verified customer"
+}

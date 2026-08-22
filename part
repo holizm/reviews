@@ -1,0 +1,42 @@
+ratingCriterion
+    title
+    code
+    minimumScore integer
+    maximumScore integer
+    description optional
+    unique code
+review
+    subject
+    reviewer
+    order optional
+    title optional
+    content
+    reviewDate
+    verified yesNo optional
+    recommended yesNo optional
+    state
+reviewRating
+    review
+    ratingCriterion
+    score realNumber
+    unique review ratingCriterion
+reviewResponse
+    review
+    responder
+    content
+    responseDate
+    unique review
+reviewReport
+    review
+    reporter
+    reason
+    reportDate
+    resolvedDate optional
+    resolution optional
+reviewAggregate
+    subject
+    reviewsCount integer
+    averageScore realNumber
+    recommendedCount integer optional
+    updatedDate
+    unique subject
