@@ -6,11 +6,9 @@
     "reviewsMinimumScore": "کمترین امتیاز",
     "reviewsRatingCriteria": "معیارهای امتیازدهی",
     "reviewsRatingCriterion": "معیار امتیازدهی",
-    "reviewsRecommended": "پیشنهاد می‌شود",
     "reviewsReviewDate": "تاریخ نظر",
-    "reviewsReviewer": "نظر‌دهنده",
+    "reviewsReviewer": "نظردهنده",
     "reviewsReviews": "نظرات",
     "reviewsState": "مرحله",
-    "reviewsSubject": "موضوع نظر",
-    "reviewsVerified": "مشتری تأییدشده"
+    "reviewsSubject": "مورد بررسی"
 }
