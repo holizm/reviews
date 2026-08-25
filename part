@@ -38,5 +38,4 @@ reviewAggregate
     reviewsCount integer
     averageScore realNumber
     recommendedCount integer optional
-    updatedDate
     unique subject
