@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'reviews',
+        path: '/reviews',
         title: 'reviewsReviews',
     },
 ]
