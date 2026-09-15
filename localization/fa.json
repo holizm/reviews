@@ -1,4 +1,24 @@
 {
-    "reviewsRecommended": "پیشنهاد می‌شود",
-    "reviewsVerified": "مشتری تأییدشده"
+    "common": {
+        "recommended": "پیشنهاد می‌شود",
+        "verified": "مشتری تأییدشده"
+    },
+    "api": {},
+    "panel": {
+        "code": "کد",
+        "content": "نظر",
+        "description": "توضیحات",
+        "maximumScore": "بیشترین امتیاز",
+        "minimumScore": "کمترین امتیاز",
+        "ratingCriteria": "معیارهای امتیازدهی",
+        "ratingCriterion": "معیار امتیازدهی",
+        "reviewDate": "تاریخ نظر",
+        "reviewer": "نظردهنده",
+        "reviews": "نظرات",
+        "state": "مرحله",
+        "subject": "مورد بررسی"
+    },
+    "site": {
+        "writeReview": "ثبت نظر"
+    }
 }

@@ -1,4 +1,24 @@
 {
-    "reviewsRecommended": "Recommended",
-    "reviewsVerified": "Verified customer"
+    "common": {
+        "recommended": "Recommended",
+        "verified": "Verified customer"
+    },
+    "api": {},
+    "panel": {
+        "code": "Code",
+        "content": "Review",
+        "description": "Description",
+        "maximumScore": "Maximum score",
+        "minimumScore": "Minimum score",
+        "ratingCriteria": "Rating criteria",
+        "ratingCriterion": "Rating criterion",
+        "reviewDate": "Review date",
+        "reviewer": "Reviewer",
+        "reviews": "Reviews",
+        "state": "State",
+        "subject": "Reviewed item"
+    },
+    "site": {
+        "writeReview": "Write a review"
+    }
 }
