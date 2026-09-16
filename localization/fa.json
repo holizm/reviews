@@ -2,9 +2,7 @@
     "common": {
         "recommended": "پیشنهاد می‌شود",
         "verified": "مشتری تأییدشده",
-        "code": "کد",
         "content": "نظر",
-        "description": "توضیحات",
         "maximumScore": "بیشترین امتیاز",
         "minimumScore": "کمترین امتیاز",
         "ratingCriteria": "معیارهای امتیازدهی",
@@ -12,7 +10,6 @@
         "reviewDate": "تاریخ نظر",
         "reviewer": "نظردهنده",
         "reviews": "نظرات",
-        "state": "مرحله",
         "subject": "مورد بررسی",
         "writeReview": "ثبت نظر"
     }

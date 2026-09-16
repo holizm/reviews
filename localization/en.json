@@ -2,9 +2,7 @@
     "common": {
         "recommended": "Recommended",
         "verified": "Verified customer",
-        "code": "Code",
         "content": "Review",
-        "description": "Description",
         "maximumScore": "Maximum score",
         "minimumScore": "Minimum score",
         "ratingCriteria": "Rating criteria",
@@ -12,7 +10,6 @@
         "reviewDate": "Review date",
         "reviewer": "Reviewer",
         "reviews": "Reviews",
-        "state": "State",
         "subject": "Reviewed item",
         "writeReview": "Write a review"
     }
