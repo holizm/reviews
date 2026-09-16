@@ -1,10 +1,7 @@
 {
     "common": {
         "recommended": "پیشنهاد می‌شود",
-        "verified": "مشتری تأییدشده"
-    },
-    "api": {},
-    "panel": {
+        "verified": "مشتری تأییدشده",
         "code": "کد",
         "content": "نظر",
         "description": "توضیحات",
@@ -16,9 +13,7 @@
         "reviewer": "نظردهنده",
         "reviews": "نظرات",
         "state": "مرحله",
-        "subject": "مورد بررسی"
-    },
-    "site": {
+        "subject": "مورد بررسی",
         "writeReview": "ثبت نظر"
     }
 }

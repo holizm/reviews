@@ -1,10 +1,7 @@
 {
     "common": {
         "recommended": "Recommended",
-        "verified": "Verified customer"
-    },
-    "api": {},
-    "panel": {
+        "verified": "Verified customer",
         "code": "Code",
         "content": "Review",
         "description": "Description",
@@ -16,9 +13,7 @@
         "reviewer": "Reviewer",
         "reviews": "Reviews",
         "state": "State",
-        "subject": "Reviewed item"
-    },
-    "site": {
+        "subject": "Reviewed item",
         "writeReview": "Write a review"
     }
 }
