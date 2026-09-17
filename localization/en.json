@@ -1,15 +1,18 @@
 {
     "common": {
-        "recommended": "Recommended",
-        "verified": "Verified customer",
         "content": "Review",
+        "hasUsedPersonally": "Used personally",
+        "item": "Reviewed item",
         "maximumScore": "Maximum score",
         "minimumScore": "Minimum score",
+        "person": "Reviewer",
         "ratingCriteria": "Rating criteria",
         "ratingCriterion": "Rating criterion",
-        "reviewDate": "Review date",
-        "reviewer": "Reviewer",
-        "reviews": "Reviews",
-        "subject": "Reviewed item"
+        "ratingCount": "Rating count",
+        "reason": "Reason",
+        "recommended": "Recommended",
+        "resolution": "Resolution",
+        "reviewCount": "Review count",
+        "reviews": "Reviews"
     }
 }

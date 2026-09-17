@@ -6,15 +6,13 @@ ratingCriterion
     description optional
     unique code
 review
-    subject
-    reviewer
-    order optional
+    item
+    person
     title optional
     content
-    reviewDate
-    verified yesNo optional
+    hasUsedPersonally yesNo
     recommended yesNo optional
-    state
+    unique item person
 reviewRating
     review
     ratingCriterion
@@ -22,20 +20,20 @@ reviewRating
     unique review ratingCriterion
 reviewResponse
     review
-    responder
+    parent optional
+    person
     content
-    responseDate
-    unique review
 reviewReport
     review
-    reporter
+    person
     reason
-    reportDate
     resolvedDate optional
     resolution optional
+    unique review person
 reviewAggregate
-    subject
-    reviewsCount integer
-    averageScore realNumber
-    recommendedCount integer optional
-    unique subject
+    item
+    reviewCount integer
+    ratingCount integer
+    averageScore realNumber optional
+    recommendedCount integer
+    unique item

@@ -1,15 +1,18 @@
 {
     "common": {
-        "recommended": "پیشنهاد می‌شود",
-        "verified": "مشتری تأییدشده",
         "content": "نظر",
+        "hasUsedPersonally": "استفاده شخصی داشته است",
+        "item": "مورد بررسی",
         "maximumScore": "بیشترین امتیاز",
         "minimumScore": "کمترین امتیاز",
+        "person": "نظردهنده",
         "ratingCriteria": "معیارهای امتیازدهی",
         "ratingCriterion": "معیار امتیازدهی",
-        "reviewDate": "تاریخ نظر",
-        "reviewer": "نظردهنده",
-        "reviews": "نظرات",
-        "subject": "مورد بررسی"
+        "ratingCount": "تعداد امتیازها",
+        "reason": "دلیل",
+        "recommended": "پیشنهاد می‌شود",
+        "resolution": "نتیجه رسیدگی",
+        "reviewCount": "تعداد نظرات",
+        "reviews": "نظرات"
     }
 }

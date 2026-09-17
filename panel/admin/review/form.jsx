@@ -1,6 +1,5 @@
 import {
     Boolean,
-    DateTime,
     DialogForm,
     LongText,
     Text,
@@ -9,13 +8,13 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='reviewsSubject'
-        property='subject'
+        placeholder='reviewsItem'
+        property='item'
         required
     />
     <Text
-        placeholder='reviewsReviewer'
-        property='reviewer'
+        placeholder='reviewsPerson'
+        property='person'
         required
     />
     <Title />
@@ -24,14 +23,10 @@ const inputs = <>
         property='content'
         required
     />
-    <DateTime
-        placeholder='reviewsReviewDate'
-        property='reviewDate'
-        required
-    />
     <Boolean
-        placeholder='reviewsVerified'
-        property='verified'
+        placeholder='reviewsHasUsedPersonally'
+        property='hasUsedPersonally'
+        required
     />
     <Boolean
         placeholder='reviewsRecommended'
