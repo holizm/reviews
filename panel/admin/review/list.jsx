@@ -1,38 +1,16 @@
-import {
-    List,
-    Text,
-} from 'list'
+import { List } from 'list'
+import card from './card'
+import filters from './filters'
 import Form from './form'
-
-const headers = <>
-    <th start>reviewsItem</th>
-    <th>reviewsPerson</th>
-    <th>reviewsHasUsedPersonally</th>
-</>
-
-const row = item => <>
-    <td>
-        {
-            item.item?.title
-        }
-    </td>
-    <td>
-        {
-            item.person?.title
-        }
-    </td>
-    <td>
-        {
-            item.hasUsedPersonally
-        }
-    </td>
-</>
+import headers from './headers'
+import row from './row'
 
 export default <List
-    create={Form}
-    filters={<Text property='content' />}
+    card={card}
+    filters={filters}
     hasDelete
     hasEdit
     headers={headers}
     row={row}
+    upsert={Form}
 />
