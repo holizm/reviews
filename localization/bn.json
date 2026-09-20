@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "গড় স্কোর",
+        "code": "কোড",
+        "content": "পর্যালোচনা",
+        "description": "বিবরণ",
+        "hasUsedPersonally": "ব্যক্তিগতভাবে ব্যবহার করেছেন",
+        "invalidRatingCriterionRange": "সর্বনিম্ন স্কোর অবশ্যই সর্বোচ্চ স্কোরের চেয়ে কম হতে হবে",
+        "invalidReviewResponseParent": "মূল উত্তরটি একই পর্যালোচনার অন্তর্ভুক্ত হতে হবে",
+        "item": "পর্যালোচিত পণ্য",
+        "maximumScore": "সর্বোচ্চ স্কোর",
+        "minimumScore": "সর্বনিম্ন স্কোর",
+        "person": "পর্যালোচক",
+        "ratingCriteria": "রেটিংয়ের মানদণ্ডসমূহ",
+        "ratingCriterion": "রেটিংয়ের মানদণ্ড",
+        "ratingCriterionNotFound": "রেটিংয়ের মানদণ্ড পাওয়া যায়নি",
+        "ratingCount": "রেটিং সংখ্যা",
+        "reason": "কারণ",
+        "recommended": "প্রস্তাবিত",
+        "recommendedCount": "সুপারিশের সংখ্যা",
+        "resolution": "সমাধান",
+        "resolvedDate": "সমাধানের তারিখ",
+        "review": "পর্যালোচনা",
+        "reviewAggregates": "পর্যালোচনার সারসংক্ষেপ",
+        "reviewCount": "পর্যালোচনা সংখ্যা",
+        "reviewRatings": "পর্যালোচনার রেটিং",
+        "reviewReports": "পর্যালোচনা প্রতিবেদন",
+        "reviewResponses": "পর্যালোচনার উত্তর",
+        "reviews": "পর্যালোচনাসমূহ",
+        "score": "স্কোর",
+        "scoreOutOfRange": "স্কোরটি রেটিং মানদণ্ডের সীমার বাইরে"
+    }
+}

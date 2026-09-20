@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Alama ya wastani",
+        "code": "Msimbo",
+        "content": "Maoni",
+        "description": "Maelezo",
+        "hasUsedPersonally": "Ametumia binafsi",
+        "invalidRatingCriterionRange": "Alama ya chini lazima iwe chini ya alama ya juu",
+        "invalidReviewResponseParent": "Jibu kuu lazima liwe la maoni hayo hayo",
+        "item": "Kipengee kilichotathminiwa",
+        "maximumScore": "Alama ya juu",
+        "minimumScore": "Alama ya chini",
+        "person": "Mtoa maoni",
+        "ratingCriteria": "Vigezo vya ukadiriaji",
+        "ratingCriterion": "Kigezo cha ukadiriaji",
+        "ratingCriterionNotFound": "Kigezo cha ukadiriaji hakikupatikana",
+        "ratingCount": "Idadi ya ukadiriaji",
+        "reason": "Sababu",
+        "recommended": "Imependekezwa",
+        "recommendedCount": "Idadi ya mapendekezo",
+        "resolution": "Suluhisho",
+        "resolvedDate": "Tarehe ya kutatuliwa",
+        "review": "Maoni",
+        "reviewAggregates": "Muhtasari wa maoni",
+        "reviewCount": "Idadi ya maoni",
+        "reviewRatings": "Ukadiriaji wa maoni",
+        "reviewReports": "Ripoti za maoni",
+        "reviewResponses": "Majibu ya maoni",
+        "reviews": "Maoni",
+        "score": "Alama",
+        "scoreOutOfRange": "Alama iko nje ya kiwango cha kigezo cha ukadiriaji"
+    }
+}

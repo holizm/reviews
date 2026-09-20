@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "ಸರಾಸರಿ ಅಂಕ",
+        "code": "ಕೋಡ್",
+        "content": "ವಿಮರ್ಶೆ",
+        "description": "ವಿವರಣೆ",
+        "hasUsedPersonally": "ವೈಯಕ್ತಿಕವಾಗಿ ಬಳಸಿದ್ದಾರೆ",
+        "invalidRatingCriterionRange": "ಕನಿಷ್ಠ ಅಂಕವು ಗರಿಷ್ಠ ಅಂಕಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿರಬೇಕು",
+        "invalidReviewResponseParent": "ಮೂಲ ಪ್ರತಿಕ್ರಿಯೆಯು ಅದೇ ವಿಮರ್ಶೆಗೆ ಸೇರಿರಬೇಕು",
+        "item": "ವಿಮರ್ಶಿಸಿದ ವಸ್ತು",
+        "maximumScore": "ಗರಿಷ್ಠ ಅಂಕ",
+        "minimumScore": "ಕನಿಷ್ಠ ಅಂಕ",
+        "person": "ವಿಮರ್ಶಕರು",
+        "ratingCriteria": "ರೇಟಿಂಗ್ ಮಾನದಂಡಗಳು",
+        "ratingCriterion": "ರೇಟಿಂಗ್ ಮಾನದಂಡ",
+        "ratingCriterionNotFound": "ರೇಟಿಂಗ್ ಮಾನದಂಡ ಕಂಡುಬಂದಿಲ್ಲ",
+        "ratingCount": "ರೇಟಿಂಗ್‌ಗಳ ಸಂಖ್ಯೆ",
+        "reason": "ಕಾರಣ",
+        "recommended": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
+        "recommendedCount": "ಶಿಫಾರಸುಗಳ ಸಂಖ್ಯೆ",
+        "resolution": "ಪರಿಹಾರ",
+        "resolvedDate": "ಪರಿಹರಿಸಿದ ದಿನಾಂಕ",
+        "review": "ವಿಮರ್ಶೆ",
+        "reviewAggregates": "ವಿಮರ್ಶೆ ಸಾರಾಂಶಗಳು",
+        "reviewCount": "ವಿಮರ್ಶೆಗಳ ಸಂಖ್ಯೆ",
+        "reviewRatings": "ವಿಮರ್ಶೆ ರೇಟಿಂಗ್‌ಗಳು",
+        "reviewReports": "ವಿಮರ್ಶೆ ವರದಿಗಳು",
+        "reviewResponses": "ವಿಮರ್ಶೆ ಪ್ರತಿಕ್ರಿಯೆಗಳು",
+        "reviews": "ವಿಮರ್ಶೆಗಳು",
+        "score": "ಅಂಕ",
+        "scoreOutOfRange": "ಅಂಕವು ರೇಟಿಂಗ್ ಮಾನದಂಡದ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿದೆ"
+    }
+}

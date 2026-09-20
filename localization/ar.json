@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "متوسط التقييم",
+        "code": "الرمز",
+        "content": "المراجعة",
+        "description": "الوصف",
+        "hasUsedPersonally": "استخدمه شخصيًا",
+        "invalidRatingCriterionRange": "يجب أن يكون أدنى تقييم أقل من أعلى تقييم",
+        "invalidReviewResponseParent": "يجب أن ينتمي الرد الأب إلى المراجعة نفسها",
+        "item": "العنصر المُراجَع",
+        "maximumScore": "أعلى تقييم",
+        "minimumScore": "أدنى تقييم",
+        "person": "المراجع",
+        "ratingCriteria": "معايير التقييم",
+        "ratingCriterion": "معيار التقييم",
+        "ratingCriterionNotFound": "لم يتم العثور على معيار التقييم",
+        "ratingCount": "عدد التقييمات",
+        "reason": "السبب",
+        "recommended": "موصى به",
+        "recommendedCount": "عدد التوصيات",
+        "resolution": "الإجراء المتخذ",
+        "resolvedDate": "تاريخ الحل",
+        "review": "مراجعة",
+        "reviewAggregates": "ملخصات المراجعات",
+        "reviewCount": "عدد المراجعات",
+        "reviewRatings": "تقييمات المراجعات",
+        "reviewReports": "بلاغات المراجعات",
+        "reviewResponses": "الردود على المراجعات",
+        "reviews": "المراجعات",
+        "score": "الدرجة",
+        "scoreOutOfRange": "الدرجة خارج نطاق معيار التقييم"
+    }
+}

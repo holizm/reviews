@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "சராசரி மதிப்பெண்",
+        "code": "குறியீடு",
+        "content": "மதிப்புரை",
+        "description": "விளக்கம்",
+        "hasUsedPersonally": "தனிப்பட்ட முறையில் பயன்படுத்தியது",
+        "invalidRatingCriterionRange": "குறைந்தபட்ச மதிப்பெண் அதிகபட்ச மதிப்பெண்ணைவிடக் குறைவாக இருக்க வேண்டும்",
+        "invalidReviewResponseParent": "முதன்மை பதில் அதே மதிப்புரையைச் சேர்ந்ததாக இருக்க வேண்டும்",
+        "item": "மதிப்பிடப்பட்ட பொருள்",
+        "maximumScore": "அதிகபட்ச மதிப்பெண்",
+        "minimumScore": "குறைந்தபட்ச மதிப்பெண்",
+        "person": "மதிப்புரையாளர்",
+        "ratingCriteria": "மதிப்பீட்டு அளவுகோல்கள்",
+        "ratingCriterion": "மதிப்பீட்டு அளவுகோல்",
+        "ratingCriterionNotFound": "மதிப்பீட்டு அளவுகோல் கிடைக்கவில்லை",
+        "ratingCount": "மதிப்பீட்டு எண்ணிக்கை",
+        "reason": "காரணம்",
+        "recommended": "பரிந்துரைக்கப்பட்டது",
+        "recommendedCount": "பரிந்துரைகளின் எண்ணிக்கை",
+        "resolution": "தீர்வு",
+        "resolvedDate": "தீர்க்கப்பட்ட தேதி",
+        "review": "மதிப்புரை",
+        "reviewAggregates": "மதிப்புரைச் சுருக்கங்கள்",
+        "reviewCount": "மதிப்புரைகளின் எண்ணிக்கை",
+        "reviewRatings": "மதிப்புரை மதிப்பீடுகள்",
+        "reviewReports": "மதிப்புரை புகார்கள்",
+        "reviewResponses": "மதிப்புரை பதில்கள்",
+        "reviews": "மதிப்புரைகள்",
+        "score": "மதிப்பெண்",
+        "scoreOutOfRange": "மதிப்பெண் மதிப்பீட்டு அளவுகோலின் வரம்பிற்கு வெளியே உள்ளது"
+    }
+}

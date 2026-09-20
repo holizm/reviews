@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "ציון ממוצע",
+        "code": "קוד",
+        "content": "ביקורת",
+        "description": "תיאור",
+        "hasUsedPersonally": "השתמש באופן אישי",
+        "invalidRatingCriterionRange": "הציון המזערי חייב להיות נמוך מהציון המרבי",
+        "invalidReviewResponseParent": "תגובת האב חייבת להשתייך לאותה ביקורת",
+        "item": "פריט שנבדק",
+        "maximumScore": "ציון מרבי",
+        "minimumScore": "ציון מזערי",
+        "person": "כותב הביקורת",
+        "ratingCriteria": "קריטריונים לדירוג",
+        "ratingCriterion": "קריטריון דירוג",
+        "ratingCriterionNotFound": "קריטריון הדירוג לא נמצא",
+        "ratingCount": "מספר דירוגים",
+        "reason": "סיבה",
+        "recommended": "מומלץ",
+        "recommendedCount": "מספר המלצות",
+        "resolution": "פתרון",
+        "resolvedDate": "תאריך פתרון",
+        "review": "ביקורת",
+        "reviewAggregates": "סיכומי ביקורות",
+        "reviewCount": "מספר ביקורות",
+        "reviewRatings": "דירוגי ביקורות",
+        "reviewReports": "דיווחים על ביקורות",
+        "reviewResponses": "תגובות לביקורות",
+        "reviews": "ביקורות",
+        "score": "ציון",
+        "scoreOutOfRange": "הציון מחוץ לטווח של קריטריון הדירוג"
+    }
+}

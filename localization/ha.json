@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Matsakaicin maki",
+        "code": "Lamba",
+        "content": "Bita",
+        "description": "Bayani",
+        "hasUsedPersonally": "Ya yi amfani da kansa",
+        "invalidRatingCriterionRange": "Mafi ƙarancin maki dole ya kasance ƙasa da mafi girman maki",
+        "invalidReviewResponseParent": "Amsar sama dole ta kasance cikin bita ɗaya",
+        "item": "Abin da aka yi wa bita",
+        "maximumScore": "Mafi girman maki",
+        "minimumScore": "Mafi ƙarancin maki",
+        "person": "Mai bita",
+        "ratingCriteria": "Ka'idojin ƙima",
+        "ratingCriterion": "Ma'aunin ƙima",
+        "ratingCriterionNotFound": "Ba a sami ma'aunin ƙima ba",
+        "ratingCount": "Yawan ƙimomi",
+        "reason": "Dalili",
+        "recommended": "An ba da shawara",
+        "recommendedCount": "Yawan shawarwari",
+        "resolution": "Mafita",
+        "resolvedDate": "Ranar warwarewa",
+        "review": "Bita",
+        "reviewAggregates": "Taƙaitattun bayanan bita",
+        "reviewCount": "Yawan bita",
+        "reviewRatings": "Ƙimomin bita",
+        "reviewReports": "Rahotannin bita",
+        "reviewResponses": "Amsoshin bita",
+        "reviews": "Bita",
+        "score": "Maki",
+        "scoreOutOfRange": "Makin yana wajen iyakar ma'aunin ƙima"
+    }
+}

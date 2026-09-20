@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Средна оценка",
+        "code": "Код",
+        "content": "Отзив",
+        "description": "Описание",
+        "hasUsedPersonally": "Използван лично",
+        "invalidRatingCriterionRange": "Минималната оценка трябва да е по-ниска от максималната",
+        "invalidReviewResponseParent": "Родителският отговор трябва да принадлежи към същия отзив",
+        "item": "Оценен артикул",
+        "maximumScore": "Максимална оценка",
+        "minimumScore": "Минимална оценка",
+        "person": "Автор на отзива",
+        "ratingCriteria": "Критерии за оценяване",
+        "ratingCriterion": "Критерий за оценяване",
+        "ratingCriterionNotFound": "Критерият за оценяване не е намерен",
+        "ratingCount": "Брой оценки",
+        "reason": "Причина",
+        "recommended": "Препоръчано",
+        "recommendedCount": "Брой препоръки",
+        "resolution": "Решение",
+        "resolvedDate": "Дата на решаване",
+        "review": "Отзив",
+        "reviewAggregates": "Обобщения на отзивите",
+        "reviewCount": "Брой отзиви",
+        "reviewRatings": "Оценки на отзивите",
+        "reviewReports": "Сигнали за отзиви",
+        "reviewResponses": "Отговори на отзиви",
+        "reviews": "Отзиви",
+        "score": "Оценка",
+        "scoreOutOfRange": "Оценката е извън диапазона на критерия"
+    }
+}

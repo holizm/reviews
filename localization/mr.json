@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "सरासरी गुण",
+        "code": "कोड",
+        "content": "पुनरावलोकन",
+        "description": "वर्णन",
+        "hasUsedPersonally": "वैयक्तिकरित्या वापरले",
+        "invalidRatingCriterionRange": "किमान गुण कमाल गुणांपेक्षा कमी असणे आवश्यक आहे",
+        "invalidReviewResponseParent": "मूळ प्रतिसाद त्याच पुनरावलोकनाशी संबंधित असणे आवश्यक आहे",
+        "item": "पुनरावलोकित वस्तू",
+        "maximumScore": "कमाल गुण",
+        "minimumScore": "किमान गुण",
+        "person": "पुनरावलोकनकर्ता",
+        "ratingCriteria": "मूल्यांकन निकष",
+        "ratingCriterion": "मूल्यांकन निकष",
+        "ratingCriterionNotFound": "मूल्यांकन निकष सापडला नाही",
+        "ratingCount": "मूल्यांकनांची संख्या",
+        "reason": "कारण",
+        "recommended": "शिफारस केलेले",
+        "recommendedCount": "शिफारसींची संख्या",
+        "resolution": "निराकरण",
+        "resolvedDate": "निराकरणाची तारीख",
+        "review": "पुनरावलोकन",
+        "reviewAggregates": "पुनरावलोकन सारांश",
+        "reviewCount": "पुनरावलोकनांची संख्या",
+        "reviewRatings": "पुनरावलोकन मूल्यांकने",
+        "reviewReports": "पुनरावलोकन अहवाल",
+        "reviewResponses": "पुनरावलोकन प्रतिसाद",
+        "reviews": "पुनरावलोकने",
+        "score": "गुण",
+        "scoreOutOfRange": "गुण मूल्यांकन निकषाच्या मर्यादेबाहेर आहेत"
+    }
+}

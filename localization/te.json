@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "సగటు స్కోరు",
+        "code": "కోడ్",
+        "content": "సమీక్ష",
+        "description": "వివరణ",
+        "hasUsedPersonally": "వ్యక్తిగతంగా ఉపయోగించారు",
+        "invalidRatingCriterionRange": "కనిష్ఠ స్కోరు గరిష్ఠ స్కోరు కంటే తక్కువగా ఉండాలి",
+        "invalidReviewResponseParent": "మాతృ ప్రతిస్పందన అదే సమీక్షకు చెందినదై ఉండాలి",
+        "item": "సమీక్షించిన అంశం",
+        "maximumScore": "గరిష్ఠ స్కోరు",
+        "minimumScore": "కనిష్ఠ స్కోరు",
+        "person": "సమీక్షకుడు",
+        "ratingCriteria": "రేటింగ్ ప్రమాణాలు",
+        "ratingCriterion": "రేటింగ్ ప్రమాణం",
+        "ratingCriterionNotFound": "రేటింగ్ ప్రమాణం కనుగొనబడలేదు",
+        "ratingCount": "రేటింగ్‌ల సంఖ్య",
+        "reason": "కారణం",
+        "recommended": "సిఫార్సు చేయబడింది",
+        "recommendedCount": "సిఫార్సుల సంఖ్య",
+        "resolution": "పరిష్కారం",
+        "resolvedDate": "పరిష్కరించిన తేదీ",
+        "review": "సమీక్ష",
+        "reviewAggregates": "సమీక్ష సారాంశాలు",
+        "reviewCount": "సమీక్షల సంఖ్య",
+        "reviewRatings": "సమీక్ష రేటింగ్‌లు",
+        "reviewReports": "సమీక్ష నివేదికలు",
+        "reviewResponses": "సమీక్ష ప్రతిస్పందనలు",
+        "reviews": "సమీక్షలు",
+        "score": "స్కోరు",
+        "scoreOutOfRange": "స్కోరు రేటింగ్ ప్రమాణ పరిధికి బయట ఉంది"
+    }
+}

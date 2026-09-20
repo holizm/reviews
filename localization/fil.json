@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Average na puntos",
+        "code": "Code",
+        "content": "Review",
+        "description": "Paglalarawan",
+        "hasUsedPersonally": "Personal na ginamit",
+        "invalidRatingCriterionRange": "Dapat mas mababa ang pinakamababang puntos kaysa pinakamataas na puntos",
+        "invalidReviewResponseParent": "Dapat kabilang sa parehong review ang pangunahing tugon",
+        "item": "Sinuring item",
+        "maximumScore": "Pinakamataas na puntos",
+        "minimumScore": "Pinakamababang puntos",
+        "person": "Tagasuri",
+        "ratingCriteria": "Mga pamantayan sa pag-rate",
+        "ratingCriterion": "Pamantayan sa pag-rate",
+        "ratingCriterionNotFound": "Hindi nakita ang pamantayan sa pag-rate",
+        "ratingCount": "Bilang ng rating",
+        "reason": "Dahilan",
+        "recommended": "Inirerekomenda",
+        "recommendedCount": "Bilang ng rekomendasyon",
+        "resolution": "Kalutasan",
+        "resolvedDate": "Petsa ng paglutas",
+        "review": "Review",
+        "reviewAggregates": "Mga buod ng review",
+        "reviewCount": "Bilang ng review",
+        "reviewRatings": "Mga rating ng review",
+        "reviewReports": "Mga ulat tungkol sa review",
+        "reviewResponses": "Mga tugon sa review",
+        "reviews": "Mga review",
+        "score": "Puntos",
+        "scoreOutOfRange": "Nasa labas ng saklaw ng pamantayan sa pag-rate ang puntos"
+    }
+}

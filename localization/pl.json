@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Średnia ocena",
+        "code": "Kod",
+        "content": "Recenzja",
+        "description": "Opis",
+        "hasUsedPersonally": "Używany osobiście",
+        "invalidRatingCriterionRange": "Minimalna ocena musi być niższa od maksymalnej",
+        "invalidReviewResponseParent": "Odpowiedź nadrzędna musi należeć do tej samej recenzji",
+        "item": "Recenzowany element",
+        "maximumScore": "Maksymalna ocena",
+        "minimumScore": "Minimalna ocena",
+        "person": "Recenzent",
+        "ratingCriteria": "Kryteria oceny",
+        "ratingCriterion": "Kryterium oceny",
+        "ratingCriterionNotFound": "Nie znaleziono kryterium oceny",
+        "ratingCount": "Liczba ocen",
+        "reason": "Powód",
+        "recommended": "Polecany",
+        "recommendedCount": "Liczba rekomendacji",
+        "resolution": "Rozstrzygnięcie",
+        "resolvedDate": "Data rozstrzygnięcia",
+        "review": "Recenzja",
+        "reviewAggregates": "Podsumowania recenzji",
+        "reviewCount": "Liczba recenzji",
+        "reviewRatings": "Oceny recenzji",
+        "reviewReports": "Zgłoszenia recenzji",
+        "reviewResponses": "Odpowiedzi na recenzje",
+        "reviews": "Recenzje",
+        "score": "Ocena",
+        "scoreOutOfRange": "Ocena wykracza poza zakres kryterium oceny"
+    }
+}

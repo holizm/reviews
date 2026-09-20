@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Gemiddelde score",
+        "code": "Code",
+        "content": "Beoordeling",
+        "description": "Beschrijving",
+        "hasUsedPersonally": "Zelf gebruikt",
+        "invalidRatingCriterionRange": "De minimumscore moet lager zijn dan de maximumscore",
+        "invalidReviewResponseParent": "Het bovenliggende antwoord moet bij dezelfde beoordeling horen",
+        "item": "Beoordeeld item",
+        "maximumScore": "Maximumscore",
+        "minimumScore": "Minimumscore",
+        "person": "Beoordelaar",
+        "ratingCriteria": "Beoordelingscriteria",
+        "ratingCriterion": "Beoordelingscriterium",
+        "ratingCriterionNotFound": "Het beoordelingscriterium is niet gevonden",
+        "ratingCount": "Aantal waarderingen",
+        "reason": "Reden",
+        "recommended": "Aanbevolen",
+        "recommendedCount": "Aantal aanbevelingen",
+        "resolution": "Afhandeling",
+        "resolvedDate": "Afhandelingsdatum",
+        "review": "Beoordeling",
+        "reviewAggregates": "Beoordelingsoverzichten",
+        "reviewCount": "Aantal beoordelingen",
+        "reviewRatings": "Beoordelingsscores",
+        "reviewReports": "Meldingen van beoordelingen",
+        "reviewResponses": "Antwoorden op beoordelingen",
+        "reviews": "Beoordelingen",
+        "score": "Score",
+        "scoreOutOfRange": "De score valt buiten het bereik van het beoordelingscriterium"
+    }
+}

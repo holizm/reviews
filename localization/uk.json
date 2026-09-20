@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Середня оцінка",
+        "code": "Код",
+        "content": "Відгук",
+        "description": "Опис",
+        "hasUsedPersonally": "Використовував особисто",
+        "invalidRatingCriterionRange": "Мінімальна оцінка має бути нижчою за максимальну",
+        "invalidReviewResponseParent": "Батьківська відповідь має належати до того самого відгуку",
+        "item": "Об’єкт відгуку",
+        "maximumScore": "Максимальна оцінка",
+        "minimumScore": "Мінімальна оцінка",
+        "person": "Автор відгуку",
+        "ratingCriteria": "Критерії оцінювання",
+        "ratingCriterion": "Критерій оцінювання",
+        "ratingCriterionNotFound": "Критерій оцінювання не знайдено",
+        "ratingCount": "Кількість оцінок",
+        "reason": "Причина",
+        "recommended": "Рекомендовано",
+        "recommendedCount": "Кількість рекомендацій",
+        "resolution": "Рішення",
+        "resolvedDate": "Дата вирішення",
+        "review": "Відгук",
+        "reviewAggregates": "Зведені дані відгуків",
+        "reviewCount": "Кількість відгуків",
+        "reviewRatings": "Оцінки відгуків",
+        "reviewReports": "Скарги на відгуки",
+        "reviewResponses": "Відповіді на відгуки",
+        "reviews": "Відгуки",
+        "score": "Оцінка",
+        "scoreOutOfRange": "Оцінка виходить за межі діапазону критерію"
+    }
+}

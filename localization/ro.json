@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Scor mediu",
+        "code": "Cod",
+        "content": "Recenzie",
+        "description": "Descriere",
+        "hasUsedPersonally": "Utilizat personal",
+        "invalidRatingCriterionRange": "Scorul minim trebuie să fie mai mic decât scorul maxim",
+        "invalidReviewResponseParent": "Răspunsul părinte trebuie să aparțină aceleiași recenzii",
+        "item": "Articol recenzat",
+        "maximumScore": "Scor maxim",
+        "minimumScore": "Scor minim",
+        "person": "Autorul recenziei",
+        "ratingCriteria": "Criterii de evaluare",
+        "ratingCriterion": "Criteriu de evaluare",
+        "ratingCriterionNotFound": "Criteriul de evaluare nu a fost găsit",
+        "ratingCount": "Număr de evaluări",
+        "reason": "Motiv",
+        "recommended": "Recomandat",
+        "recommendedCount": "Număr de recomandări",
+        "resolution": "Soluționare",
+        "resolvedDate": "Data soluționării",
+        "review": "Recenzie",
+        "reviewAggregates": "Agregări ale recenziilor",
+        "reviewCount": "Număr de recenzii",
+        "reviewRatings": "Evaluări ale recenziilor",
+        "reviewReports": "Raportări ale recenziilor",
+        "reviewResponses": "Răspunsuri la recenzii",
+        "reviews": "Recenzii",
+        "score": "Scor",
+        "scoreOutOfRange": "Scorul este în afara intervalului criteriului de evaluare"
+    }
+}

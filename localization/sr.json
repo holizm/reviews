@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Просечна оцена",
+        "code": "Шифра",
+        "content": "Рецензија",
+        "description": "Опис",
+        "hasUsedPersonally": "Лично коришћено",
+        "invalidRatingCriterionRange": "Најнижа оцена мора бити нижа од највише оцене",
+        "invalidReviewResponseParent": "Надређени одговор мора припадати истој рецензији",
+        "item": "Рецензирани артикал",
+        "maximumScore": "Највиша оцена",
+        "minimumScore": "Најнижа оцена",
+        "person": "Рецензент",
+        "ratingCriteria": "Критеријуми оцењивања",
+        "ratingCriterion": "Критеријум оцењивања",
+        "ratingCriterionNotFound": "Критеријум оцењивања није пронађен",
+        "ratingCount": "Број оцена",
+        "reason": "Разлог",
+        "recommended": "Препоручено",
+        "recommendedCount": "Број препорука",
+        "resolution": "Решење",
+        "resolvedDate": "Датум решења",
+        "review": "Рецензија",
+        "reviewAggregates": "Сажеци рецензија",
+        "reviewCount": "Број рецензија",
+        "reviewRatings": "Оцене рецензија",
+        "reviewReports": "Пријаве рецензија",
+        "reviewResponses": "Одговори на рецензије",
+        "reviews": "Рецензије",
+        "score": "Оцена",
+        "scoreOutOfRange": "Оцена је ван опсега критеријума оцењивања"
+    }
+}

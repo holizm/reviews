@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Ortalama puan",
+        "code": "Kod",
+        "content": "İnceleme",
+        "description": "Açıklama",
+        "hasUsedPersonally": "Kişisel olarak kullandı",
+        "invalidRatingCriterionRange": "En düşük puan, en yüksek puandan düşük olmalıdır",
+        "invalidReviewResponseParent": "Üst yanıt aynı incelemeye ait olmalıdır",
+        "item": "İncelenen öğe",
+        "maximumScore": "En yüksek puan",
+        "minimumScore": "En düşük puan",
+        "person": "İnceleyen",
+        "ratingCriteria": "Değerlendirme ölçütleri",
+        "ratingCriterion": "Değerlendirme ölçütü",
+        "ratingCriterionNotFound": "Değerlendirme ölçütü bulunamadı",
+        "ratingCount": "Değerlendirme sayısı",
+        "reason": "Neden",
+        "recommended": "Öneriliyor",
+        "recommendedCount": "Öneri sayısı",
+        "resolution": "Çözüm",
+        "resolvedDate": "Çözüm tarihi",
+        "review": "İnceleme",
+        "reviewAggregates": "İnceleme özetleri",
+        "reviewCount": "İnceleme sayısı",
+        "reviewRatings": "İnceleme puanları",
+        "reviewReports": "İnceleme bildirimleri",
+        "reviewResponses": "İnceleme yanıtları",
+        "reviews": "İncelemeler",
+        "score": "Puan",
+        "scoreOutOfRange": "Puan, değerlendirme ölçütü aralığının dışında"
+    }
+}

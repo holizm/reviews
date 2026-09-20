@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "ਔਸਤ ਸਕੋਰ",
+        "code": "ਕੋਡ",
+        "content": "ਸਮੀਖਿਆ",
+        "description": "ਵੇਰਵਾ",
+        "hasUsedPersonally": "ਨਿੱਜੀ ਤੌਰ 'ਤੇ ਵਰਤਿਆ",
+        "invalidRatingCriterionRange": "ਘੱਟੋ-ਘੱਟ ਸਕੋਰ ਵੱਧ ਤੋਂ ਵੱਧ ਸਕੋਰ ਤੋਂ ਘੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+        "invalidReviewResponseParent": "ਮੁੱਖ ਜਵਾਬ ਉਸੇ ਸਮੀਖਿਆ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+        "item": "ਸਮੀਖਿਆ ਕੀਤੀ ਵਸਤੂ",
+        "maximumScore": "ਵੱਧ ਤੋਂ ਵੱਧ ਸਕੋਰ",
+        "minimumScore": "ਘੱਟ ਤੋਂ ਘੱਟ ਸਕੋਰ",
+        "person": "ਸਮੀਖਿਅਕ",
+        "ratingCriteria": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ",
+        "ratingCriterion": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ",
+        "ratingCriterionNotFound": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ ਨਹੀਂ ਮਿਲਿਆ",
+        "ratingCount": "ਰੇਟਿੰਗਾਂ ਦੀ ਗਿਣਤੀ",
+        "reason": "ਕਾਰਨ",
+        "recommended": "ਸਿਫ਼ਾਰਸ਼ ਕੀਤਾ",
+        "recommendedCount": "ਸਿਫ਼ਾਰਸ਼ਾਂ ਦੀ ਗਿਣਤੀ",
+        "resolution": "ਨਿਪਟਾਰਾ",
+        "resolvedDate": "ਨਿਪਟਾਰੇ ਦੀ ਮਿਤੀ",
+        "review": "ਸਮੀਖਿਆ",
+        "reviewAggregates": "ਸਮੀਖਿਆ ਸਾਰ",
+        "reviewCount": "ਸਮੀਖਿਆਵਾਂ ਦੀ ਗਿਣਤੀ",
+        "reviewRatings": "ਸਮੀਖਿਆ ਰੇਟਿੰਗਾਂ",
+        "reviewReports": "ਸਮੀਖਿਆ ਰਿਪੋਰਟਾਂ",
+        "reviewResponses": "ਸਮੀਖਿਆ ਜਵਾਬ",
+        "reviews": "ਸਮੀਖਿਆਵਾਂ",
+        "score": "ਸਕੋਰ",
+        "scoreOutOfRange": "ਸਕੋਰ ਰੇਟਿੰਗ ਮਾਪਦੰਡ ਦੀ ਸੀਮਾ ਤੋਂ ਬਾਹਰ ਹੈ"
+    }
+}

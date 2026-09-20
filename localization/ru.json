@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Средняя оценка",
+        "code": "Код",
+        "content": "Отзыв",
+        "description": "Описание",
+        "hasUsedPersonally": "Использовал лично",
+        "invalidRatingCriterionRange": "Минимальная оценка должна быть ниже максимальной",
+        "invalidReviewResponseParent": "Родительский ответ должен относиться к тому же отзыву",
+        "item": "Объект отзыва",
+        "maximumScore": "Максимальная оценка",
+        "minimumScore": "Минимальная оценка",
+        "person": "Автор отзыва",
+        "ratingCriteria": "Критерии оценки",
+        "ratingCriterion": "Критерий оценки",
+        "ratingCriterionNotFound": "Критерий оценки не найден",
+        "ratingCount": "Количество оценок",
+        "reason": "Причина",
+        "recommended": "Рекомендуется",
+        "recommendedCount": "Количество рекомендаций",
+        "resolution": "Решение",
+        "resolvedDate": "Дата решения",
+        "review": "Отзыв",
+        "reviewAggregates": "Сводные данные отзывов",
+        "reviewCount": "Количество отзывов",
+        "reviewRatings": "Оценки отзывов",
+        "reviewReports": "Жалобы на отзывы",
+        "reviewResponses": "Ответы на отзывы",
+        "reviews": "Отзывы",
+        "score": "Оценка",
+        "scoreOutOfRange": "Оценка находится вне диапазона критерия"
+    }
+}

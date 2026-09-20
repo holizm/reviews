@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Prosječna ocjena",
+        "code": "Šifra",
+        "content": "Recenzija",
+        "description": "Opis",
+        "hasUsedPersonally": "Osobno korišteno",
+        "invalidRatingCriterionRange": "Najniža ocjena mora biti niža od najviše ocjene",
+        "invalidReviewResponseParent": "Nadređeni odgovor mora pripadati istoj recenziji",
+        "item": "Recenzirani artikl",
+        "maximumScore": "Najviša ocjena",
+        "minimumScore": "Najniža ocjena",
+        "person": "Recenzent",
+        "ratingCriteria": "Kriteriji ocjenjivanja",
+        "ratingCriterion": "Kriterij ocjenjivanja",
+        "ratingCriterionNotFound": "Kriterij ocjenjivanja nije pronađen",
+        "ratingCount": "Broj ocjena",
+        "reason": "Razlog",
+        "recommended": "Preporučeno",
+        "recommendedCount": "Broj preporuka",
+        "resolution": "Rješenje",
+        "resolvedDate": "Datum rješenja",
+        "review": "Recenzija",
+        "reviewAggregates": "Sažeci recenzija",
+        "reviewCount": "Broj recenzija",
+        "reviewRatings": "Ocjene recenzija",
+        "reviewReports": "Prijave recenzija",
+        "reviewResponses": "Odgovori na recenzije",
+        "reviews": "Recenzije",
+        "score": "Ocjena",
+        "scoreOutOfRange": "Ocjena je izvan raspona kriterija ocjenjivanja"
+    }
+}

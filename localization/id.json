@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Skor rata-rata",
+        "code": "Kode",
+        "content": "Ulasan",
+        "description": "Deskripsi",
+        "hasUsedPersonally": "Digunakan sendiri",
+        "invalidRatingCriterionRange": "Skor minimum harus lebih rendah daripada skor maksimum",
+        "invalidReviewResponseParent": "Tanggapan induk harus berasal dari ulasan yang sama",
+        "item": "Item yang diulas",
+        "maximumScore": "Skor maksimum",
+        "minimumScore": "Skor minimum",
+        "person": "Pengulas",
+        "ratingCriteria": "Kriteria penilaian",
+        "ratingCriterion": "Kriteria penilaian",
+        "ratingCriterionNotFound": "Kriteria penilaian tidak ditemukan",
+        "ratingCount": "Jumlah penilaian",
+        "reason": "Alasan",
+        "recommended": "Direkomendasikan",
+        "recommendedCount": "Jumlah rekomendasi",
+        "resolution": "Penyelesaian",
+        "resolvedDate": "Tanggal penyelesaian",
+        "review": "Ulasan",
+        "reviewAggregates": "Ringkasan ulasan",
+        "reviewCount": "Jumlah ulasan",
+        "reviewRatings": "Penilaian ulasan",
+        "reviewReports": "Laporan ulasan",
+        "reviewResponses": "Tanggapan ulasan",
+        "reviews": "Ulasan",
+        "score": "Skor",
+        "scoreOutOfRange": "Skor berada di luar rentang kriteria penilaian"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "አማካይ ነጥብ",
+        "code": "ኮድ",
+        "content": "ግምገማ",
+        "description": "መግለጫ",
+        "hasUsedPersonally": "በግል ተጠቅሟል",
+        "invalidRatingCriterionRange": "ዝቅተኛው ነጥብ ከከፍተኛው ነጥብ ያነሰ መሆን አለበት",
+        "invalidReviewResponseParent": "የወላጅ ምላሽ የዚያው ግምገማ መሆን አለበት",
+        "item": "የተገመገመ ንጥል",
+        "maximumScore": "ከፍተኛ ነጥብ",
+        "minimumScore": "ዝቅተኛ ነጥብ",
+        "person": "ገምጋሚ",
+        "ratingCriteria": "የደረጃ መስጫ መስፈርቶች",
+        "ratingCriterion": "የደረጃ መስጫ መስፈርት",
+        "ratingCriterionNotFound": "የደረጃ መስጫ መስፈርት አልተገኘም",
+        "ratingCount": "የደረጃ ብዛት",
+        "reason": "ምክንያት",
+        "recommended": "የሚመከር",
+        "recommendedCount": "የምክር ብዛት",
+        "resolution": "መፍትሔ",
+        "resolvedDate": "የተፈታበት ቀን",
+        "review": "ግምገማ",
+        "reviewAggregates": "የግምገማ ማጠቃለያዎች",
+        "reviewCount": "የግምገማዎች ብዛት",
+        "reviewRatings": "የግምገማ ደረጃዎች",
+        "reviewReports": "የግምገማ ሪፖርቶች",
+        "reviewResponses": "የግምገማ ምላሾች",
+        "reviews": "ግምገማዎች",
+        "score": "ነጥብ",
+        "scoreOutOfRange": "ነጥቡ ከደረጃ መስጫ መስፈርቱ ወሰን ውጭ ነው"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Pontuação média",
+        "code": "Código",
+        "content": "Avaliação",
+        "description": "Descrição",
+        "hasUsedPersonally": "Usado pessoalmente",
+        "invalidRatingCriterionRange": "A pontuação mínima deve ser inferior à pontuação máxima",
+        "invalidReviewResponseParent": "A resposta principal deve pertencer à mesma opinião",
+        "item": "Item avaliado",
+        "maximumScore": "Pontuação máxima",
+        "minimumScore": "Pontuação mínima",
+        "person": "Avaliador",
+        "ratingCriteria": "Critérios de avaliação",
+        "ratingCriterion": "Critério de avaliação",
+        "ratingCriterionNotFound": "O critério de avaliação não foi encontrado",
+        "ratingCount": "Número de avaliações",
+        "reason": "Motivo",
+        "recommended": "Recomendado",
+        "recommendedCount": "Número de recomendações",
+        "resolution": "Resolução",
+        "resolvedDate": "Data de resolução",
+        "review": "Opinião",
+        "reviewAggregates": "Agregados de opiniões",
+        "reviewCount": "Número de opiniões",
+        "reviewRatings": "Avaliações das opiniões",
+        "reviewReports": "Denúncias de opiniões",
+        "reviewResponses": "Respostas às opiniões",
+        "reviews": "Opiniões",
+        "score": "Pontuação",
+        "scoreOutOfRange": "A pontuação está fora do intervalo do critério de avaliação"
+    }
+}

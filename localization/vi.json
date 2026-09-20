@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Điểm trung bình",
+        "code": "Mã",
+        "content": "Đánh giá",
+        "description": "Mô tả",
+        "hasUsedPersonally": "Đã trực tiếp sử dụng",
+        "invalidRatingCriterionRange": "Điểm tối thiểu phải thấp hơn điểm tối đa",
+        "invalidReviewResponseParent": "Phản hồi cấp trên phải thuộc cùng một bài đánh giá",
+        "item": "Mục được đánh giá",
+        "maximumScore": "Điểm tối đa",
+        "minimumScore": "Điểm tối thiểu",
+        "person": "Người đánh giá",
+        "ratingCriteria": "Các tiêu chí chấm điểm",
+        "ratingCriterion": "Tiêu chí chấm điểm",
+        "ratingCriterionNotFound": "Không tìm thấy tiêu chí chấm điểm",
+        "ratingCount": "Số lượt chấm điểm",
+        "reason": "Lý do",
+        "recommended": "Được đề xuất",
+        "recommendedCount": "Số lượt đề xuất",
+        "resolution": "Phương án xử lý",
+        "resolvedDate": "Ngày xử lý",
+        "review": "Bài đánh giá",
+        "reviewAggregates": "Tổng hợp đánh giá",
+        "reviewCount": "Số bài đánh giá",
+        "reviewRatings": "Điểm của bài đánh giá",
+        "reviewReports": "Báo cáo bài đánh giá",
+        "reviewResponses": "Phản hồi bài đánh giá",
+        "reviews": "Bài đánh giá",
+        "score": "Điểm",
+        "scoreOutOfRange": "Điểm nằm ngoài phạm vi của tiêu chí chấm điểm"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Genomsnittlig poäng",
+        "code": "Kod",
+        "content": "Recension",
+        "description": "Beskrivning",
+        "hasUsedPersonally": "Använt personligen",
+        "invalidRatingCriterionRange": "Lägsta poäng måste vara lägre än högsta poäng",
+        "invalidReviewResponseParent": "Det överordnade svaret måste tillhöra samma recension",
+        "item": "Recenserat objekt",
+        "maximumScore": "Högsta poäng",
+        "minimumScore": "Lägsta poäng",
+        "person": "Recensent",
+        "ratingCriteria": "Betygskriterier",
+        "ratingCriterion": "Betygskriterium",
+        "ratingCriterionNotFound": "Betygskriteriet hittades inte",
+        "ratingCount": "Antal betyg",
+        "reason": "Orsak",
+        "recommended": "Rekommenderas",
+        "recommendedCount": "Antal rekommendationer",
+        "resolution": "Åtgärd",
+        "resolvedDate": "Åtgärdsdatum",
+        "review": "Recension",
+        "reviewAggregates": "Recensionssammanställningar",
+        "reviewCount": "Antal recensioner",
+        "reviewRatings": "Recensionsbetyg",
+        "reviewReports": "Anmälda recensioner",
+        "reviewResponses": "Svar på recensioner",
+        "reviews": "Recensioner",
+        "score": "Poäng",
+        "scoreOutOfRange": "Poängen ligger utanför betygskriteriets intervall"
+    }
+}

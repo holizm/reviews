@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "Gemiddelde telling",
+        "code": "Kode",
+        "content": "Resensie",
+        "description": "Beskrywing",
+        "hasUsedPersonally": "Persoonlik gebruik",
+        "invalidRatingCriterionRange": "Die minimum telling moet laer as die maksimum telling wees",
+        "invalidReviewResponseParent": "Die ouerantwoord moet aan dieselfde resensie behoort",
+        "item": "Geresenseerde item",
+        "maximumScore": "Maksimum telling",
+        "minimumScore": "Minimum telling",
+        "person": "Resensent",
+        "ratingCriteria": "Beoordelingskriteria",
+        "ratingCriterion": "Beoordelingskriterium",
+        "ratingCriterionNotFound": "Die beoordelingskriterium is nie gevind nie",
+        "ratingCount": "Aantal graderings",
+        "reason": "Rede",
+        "recommended": "Aanbeveel",
+        "recommendedCount": "Aantal aanbevelings",
+        "resolution": "Oplossing",
+        "resolvedDate": "Oplossingsdatum",
+        "review": "Resensie",
+        "reviewAggregates": "Resensie-opsommings",
+        "reviewCount": "Aantal resensies",
+        "reviewRatings": "Resensiegraderings",
+        "reviewReports": "Gerapporteerde resensies",
+        "reviewResponses": "Antwoorde op resensies",
+        "reviews": "Resensies",
+        "score": "Telling",
+        "scoreOutOfRange": "Die telling is buite die reeks van die beoordelingskriterium"
+    }
+}

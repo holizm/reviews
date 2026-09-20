@@ -1,0 +1,33 @@
+{
+    "common": {
+        "averageScore": "คะแนนเฉลี่ย",
+        "code": "รหัส",
+        "content": "รีวิว",
+        "description": "คำอธิบาย",
+        "hasUsedPersonally": "เคยใช้ด้วยตนเอง",
+        "invalidRatingCriterionRange": "คะแนนต่ำสุดต้องน้อยกว่าคะแนนสูงสุด",
+        "invalidReviewResponseParent": "คำตอบหลักต้องอยู่ในรีวิวเดียวกัน",
+        "item": "รายการที่รีวิว",
+        "maximumScore": "คะแนนสูงสุด",
+        "minimumScore": "คะแนนต่ำสุด",
+        "person": "ผู้รีวิว",
+        "ratingCriteria": "เกณฑ์การให้คะแนน",
+        "ratingCriterion": "เกณฑ์การให้คะแนน",
+        "ratingCriterionNotFound": "ไม่พบเกณฑ์การให้คะแนน",
+        "ratingCount": "จำนวนการให้คะแนน",
+        "reason": "เหตุผล",
+        "recommended": "แนะนำ",
+        "recommendedCount": "จำนวนคำแนะนำ",
+        "resolution": "ผลการดำเนินการ",
+        "resolvedDate": "วันที่ดำเนินการเสร็จ",
+        "review": "รีวิว",
+        "reviewAggregates": "สรุปข้อมูลรีวิว",
+        "reviewCount": "จำนวนรีวิว",
+        "reviewRatings": "คะแนนรีวิว",
+        "reviewReports": "รายงานรีวิว",
+        "reviewResponses": "คำตอบต่อรีวิว",
+        "reviews": "รีวิว",
+        "score": "คะแนน",
+        "scoreOutOfRange": "คะแนนอยู่นอกช่วงของเกณฑ์การให้คะแนน"
+    }
+}
