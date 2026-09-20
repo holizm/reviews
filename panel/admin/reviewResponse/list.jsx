@@ -3,7 +3,6 @@ import card from './card'
 import filters from './filters'
 import Form from './form'
 import headers from './headers'
-import itemActions from './itemActions'
 import row from './row'
 
 export default <List
@@ -12,7 +11,6 @@ export default <List
     hasDelete
     hasEdit
     headers={headers}
-    itemActions={itemActions}
     row={row}
     upsert={Form}
 />

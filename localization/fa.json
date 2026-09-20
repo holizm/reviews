@@ -1,18 +1,33 @@
 {
     "common": {
+        "averageScore": "میانگین امتیاز",
+        "code": "کد",
         "content": "نظر",
+        "description": "توضیحات",
         "hasUsedPersonally": "استفاده شخصی داشته است",
+        "invalidRatingCriterionRange": "کمترین امتیاز باید از بیشترین امتیاز کمتر باشد",
+        "invalidReviewResponseParent": "پاسخ والد باید متعلق به همین نظر باشد",
         "item": "مورد بررسی",
         "maximumScore": "بیشترین امتیاز",
         "minimumScore": "کمترین امتیاز",
         "person": "نظردهنده",
         "ratingCriteria": "معیارهای امتیازدهی",
         "ratingCriterion": "معیار امتیازدهی",
+        "ratingCriterionNotFound": "معیار امتیازدهی پیدا نشد",
         "ratingCount": "تعداد امتیازها",
         "reason": "دلیل",
         "recommended": "پیشنهاد می‌شود",
+        "recommendedCount": "تعداد پیشنهادها",
         "resolution": "نتیجه رسیدگی",
+        "resolvedDate": "تاریخ رسیدگی",
+        "review": "نظر",
+        "reviewAggregates": "خلاصه نظرات",
         "reviewCount": "تعداد نظرات",
-        "reviews": "نظرات"
+        "reviewRatings": "امتیازهای نظرات",
+        "reviewReports": "گزارش‌های نظرات",
+        "reviewResponses": "پاسخ‌های نظرات",
+        "reviews": "نظرات",
+        "score": "امتیاز",
+        "scoreOutOfRange": "امتیاز خارج از بازه معیار امتیازدهی است"
     }
 }

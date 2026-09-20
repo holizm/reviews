@@ -1,18 +1,33 @@
 {
     "common": {
+        "averageScore": "Average score",
+        "code": "Code",
         "content": "Review",
+        "description": "Description",
         "hasUsedPersonally": "Used personally",
+        "invalidRatingCriterionRange": "Minimum score must be lower than maximum score",
+        "invalidReviewResponseParent": "The parent response must belong to the same review",
         "item": "Reviewed item",
         "maximumScore": "Maximum score",
         "minimumScore": "Minimum score",
         "person": "Reviewer",
         "ratingCriteria": "Rating criteria",
         "ratingCriterion": "Rating criterion",
+        "ratingCriterionNotFound": "Rating criterion was not found",
         "ratingCount": "Rating count",
         "reason": "Reason",
         "recommended": "Recommended",
+        "recommendedCount": "Recommended count",
         "resolution": "Resolution",
+        "resolvedDate": "Resolved date",
+        "review": "Review",
+        "reviewAggregates": "Review aggregates",
         "reviewCount": "Review count",
-        "reviews": "Reviews"
+        "reviewRatings": "Review ratings",
+        "reviewReports": "Review reports",
+        "reviewResponses": "Review responses",
+        "reviews": "Reviews",
+        "score": "Score",
+        "scoreOutOfRange": "Score is outside the rating criterion range"
     }
 }

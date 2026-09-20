@@ -1,9 +1,5 @@
-import {
-    read,
-    write,
-} from 'core'
+import { read } from 'core'
 
 export default {
     ...read,
-    ...write,
 }
