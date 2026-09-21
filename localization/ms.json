@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Skor minimum mestilah lebih rendah daripada skor maksimum",
         "invalidReviewResponseParent": "Respons induk mesti tergolong dalam ulasan yang sama",
         "item": "Item yang diulas",
-        "maximumScore": "Skor maksimum",
         "minimumScore": "Skor minimum",
         "person": "Pengulas",
+        "ratingCount": "Bilangan penilaian",
         "ratingCriteria": "Kriteria penilaian",
         "ratingCriterion": "Kriteria penilaian",
         "ratingCriterionNotFound": "Kriteria penilaian tidak ditemukan",
-        "ratingCount": "Bilangan penilaian",
         "reason": "Sebab",
         "recommended": "Disyorkan",
         "recommendedCount": "Bilangan cadangan",
@@ -27,7 +26,6 @@
         "reviewReports": "Laporan ulasan",
         "reviewResponses": "Respons ulasan",
         "reviews": "Ulasan",
-        "score": "Skor",
         "scoreOutOfRange": "Skor berada di luar julat kriteria penilaian"
     }
 }

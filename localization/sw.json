@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Alama ya chini lazima iwe chini ya alama ya juu",
         "invalidReviewResponseParent": "Jibu kuu lazima liwe la maoni hayo hayo",
         "item": "Kipengee kilichotathminiwa",
-        "maximumScore": "Alama ya juu",
         "minimumScore": "Alama ya chini",
         "person": "Mtoa maoni",
+        "ratingCount": "Idadi ya ukadiriaji",
         "ratingCriteria": "Vigezo vya ukadiriaji",
         "ratingCriterion": "Kigezo cha ukadiriaji",
         "ratingCriterionNotFound": "Kigezo cha ukadiriaji hakikupatikana",
-        "ratingCount": "Idadi ya ukadiriaji",
         "reason": "Sababu",
         "recommended": "Imependekezwa",
         "recommendedCount": "Idadi ya mapendekezo",
@@ -27,7 +26,6 @@
         "reviewReports": "Ripoti za maoni",
         "reviewResponses": "Majibu ya maoni",
         "reviews": "Maoni",
-        "score": "Alama",
         "scoreOutOfRange": "Alama iko nje ya kiwango cha kigezo cha ukadiriaji"
     }
 }

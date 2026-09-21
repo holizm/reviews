@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "കുറഞ്ഞ സ്കോർ പരമാവധി സ്കോറിനേക്കാൾ കുറവായിരിക്കണം",
         "invalidReviewResponseParent": "മാതൃ പ്രതികരണം അതേ അവലോകനത്തിൽ ഉൾപ്പെട്ടിരിക്കണം",
         "item": "അവലോകനം ചെയ്ത ഇനം",
-        "maximumScore": "പരമാവധി സ്കോർ",
         "minimumScore": "കുറഞ്ഞ സ്കോർ",
         "person": "അവലോകകൻ",
+        "ratingCount": "റേറ്റിംഗുകളുടെ എണ്ണം",
         "ratingCriteria": "റേറ്റിംഗ് മാനദണ്ഡങ്ങൾ",
         "ratingCriterion": "റേറ്റിംഗ് മാനദണ്ഡം",
         "ratingCriterionNotFound": "റേറ്റിംഗ് മാനദണ്ഡം കണ്ടെത്തിയില്ല",
-        "ratingCount": "റേറ്റിംഗുകളുടെ എണ്ണം",
         "reason": "കാരണം",
         "recommended": "ശുപാർശ ചെയ്തത്",
         "recommendedCount": "ശുപാർശകളുടെ എണ്ണം",
@@ -27,7 +26,6 @@
         "reviewReports": "അവലോകന റിപ്പോർട്ടുകൾ",
         "reviewResponses": "അവലോകന പ്രതികരണങ്ങൾ",
         "reviews": "അവലോകനങ്ങൾ",
-        "score": "സ്കോർ",
         "scoreOutOfRange": "സ്കോർ റേറ്റിംഗ് മാനദണ്ഡത്തിന്റെ പരിധിക്ക് പുറത്താണ്"
     }
 }

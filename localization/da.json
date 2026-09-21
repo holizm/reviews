@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Den laveste score skal være lavere end den højeste score",
         "invalidReviewResponseParent": "Det overordnede svar skal tilhøre den samme anmeldelse",
         "item": "Anmeldt element",
-        "maximumScore": "Højeste score",
         "minimumScore": "Laveste score",
         "person": "Anmelder",
+        "ratingCount": "Antal bedømmelser",
         "ratingCriteria": "Bedømmelseskriterier",
         "ratingCriterion": "Bedømmelseskriterium",
         "ratingCriterionNotFound": "Bedømmelseskriteriet blev ikke fundet",
-        "ratingCount": "Antal bedømmelser",
         "reason": "Årsag",
         "recommended": "Anbefalet",
         "recommendedCount": "Antal anbefalinger",
@@ -27,7 +26,6 @@
         "reviewReports": "Rapporterede anmeldelser",
         "reviewResponses": "Svar på anmeldelser",
         "reviews": "Anmeldelser",
-        "score": "Score",
         "scoreOutOfRange": "Scoren ligger uden for bedømmelseskriteriets interval"
     }
 }

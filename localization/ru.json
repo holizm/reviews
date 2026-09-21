@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Минимальная оценка должна быть ниже максимальной",
         "invalidReviewResponseParent": "Родительский ответ должен относиться к тому же отзыву",
         "item": "Объект отзыва",
-        "maximumScore": "Максимальная оценка",
         "minimumScore": "Минимальная оценка",
         "person": "Автор отзыва",
+        "ratingCount": "Количество оценок",
         "ratingCriteria": "Критерии оценки",
         "ratingCriterion": "Критерий оценки",
         "ratingCriterionNotFound": "Критерий оценки не найден",
-        "ratingCount": "Количество оценок",
         "reason": "Причина",
         "recommended": "Рекомендуется",
         "recommendedCount": "Количество рекомендаций",
@@ -27,7 +26,6 @@
         "reviewReports": "Жалобы на отзывы",
         "reviewResponses": "Ответы на отзывы",
         "reviews": "Отзывы",
-        "score": "Оценка",
         "scoreOutOfRange": "Оценка находится вне диапазона критерия"
     }
 }

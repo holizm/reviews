@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Minimalna ocena musi być niższa od maksymalnej",
         "invalidReviewResponseParent": "Odpowiedź nadrzędna musi należeć do tej samej recenzji",
         "item": "Recenzowany element",
-        "maximumScore": "Maksymalna ocena",
         "minimumScore": "Minimalna ocena",
         "person": "Recenzent",
+        "ratingCount": "Liczba ocen",
         "ratingCriteria": "Kryteria oceny",
         "ratingCriterion": "Kryterium oceny",
         "ratingCriterionNotFound": "Nie znaleziono kryterium oceny",
-        "ratingCount": "Liczba ocen",
         "reason": "Powód",
         "recommended": "Polecany",
         "recommendedCount": "Liczba rekomendacji",
@@ -27,7 +26,6 @@
         "reviewReports": "Zgłoszenia recenzji",
         "reviewResponses": "Odpowiedzi na recenzje",
         "reviews": "Recenzje",
-        "score": "Ocena",
         "scoreOutOfRange": "Ocena wykracza poza zakres kryterium oceny"
     }
 }

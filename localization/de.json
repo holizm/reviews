@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Die Mindestpunktzahl muss niedriger als die Höchstpunktzahl sein",
         "invalidReviewResponseParent": "Die übergeordnete Antwort muss zur selben Rezension gehören",
         "item": "Bewerteter Artikel",
-        "maximumScore": "Höchstpunktzahl",
         "minimumScore": "Mindestpunktzahl",
         "person": "Bewertende Person",
+        "ratingCount": "Anzahl der Bewertungen",
         "ratingCriteria": "Bewertungskriterien",
         "ratingCriterion": "Bewertungskriterium",
         "ratingCriterionNotFound": "Das Bewertungskriterium wurde nicht gefunden",
-        "ratingCount": "Anzahl der Bewertungen",
         "reason": "Grund",
         "recommended": "Empfohlen",
         "recommendedCount": "Anzahl der Empfehlungen",
@@ -27,7 +26,6 @@
         "reviewReports": "Gemeldete Rezensionen",
         "reviewResponses": "Antworten auf Rezensionen",
         "reviews": "Rezensionen",
-        "score": "Punktzahl",
         "scoreOutOfRange": "Die Punktzahl liegt außerhalb des Bereichs des Bewertungskriteriums"
     }
 }

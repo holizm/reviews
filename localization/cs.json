@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Minimální skóre musí být nižší než maximální skóre",
         "invalidReviewResponseParent": "Nadřazená odpověď musí patřit ke stejné recenzi",
         "item": "Recenzovaná položka",
-        "maximumScore": "Maximální skóre",
         "minimumScore": "Minimální skóre",
         "person": "Recenzent",
+        "ratingCount": "Počet hodnocení",
         "ratingCriteria": "Kritéria hodnocení",
         "ratingCriterion": "Kritérium hodnocení",
         "ratingCriterionNotFound": "Kritérium hodnocení nebylo nalezeno",
-        "ratingCount": "Počet hodnocení",
         "reason": "Důvod",
         "recommended": "Doporučeno",
         "recommendedCount": "Počet doporučení",
@@ -27,7 +26,6 @@
         "reviewReports": "Nahlášené recenze",
         "reviewResponses": "Odpovědi na recenze",
         "reviews": "Recenze",
-        "score": "Skóre",
         "scoreOutOfRange": "Skóre je mimo rozsah kritéria hodnocení"
     }
 }

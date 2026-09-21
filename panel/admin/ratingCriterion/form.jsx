@@ -19,7 +19,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='reviewsMaximumScore'
+        placeholder='coreMaximumScore'
         property='maximumScore'
         required
     />

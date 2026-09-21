@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "최저 점수는 최고 점수보다 낮아야 합니다",
         "invalidReviewResponseParent": "상위 답변은 동일한 리뷰에 속해야 합니다",
         "item": "리뷰 대상",
-        "maximumScore": "최고 점수",
         "minimumScore": "최저 점수",
         "person": "리뷰 작성자",
+        "ratingCount": "평가 수",
         "ratingCriteria": "평가 기준",
         "ratingCriterion": "평가 기준",
         "ratingCriterionNotFound": "평가 기준을 찾을 수 없습니다",
-        "ratingCount": "평가 수",
         "reason": "사유",
         "recommended": "추천함",
         "recommendedCount": "추천 수",
@@ -27,7 +26,6 @@
         "reviewReports": "리뷰 신고",
         "reviewResponses": "리뷰 답변",
         "reviews": "리뷰",
-        "score": "점수",
         "scoreOutOfRange": "점수가 평가 기준 범위를 벗어났습니다"
     }
 }

@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Scorul minim trebuie să fie mai mic decât scorul maxim",
         "invalidReviewResponseParent": "Răspunsul părinte trebuie să aparțină aceleiași recenzii",
         "item": "Articol recenzat",
-        "maximumScore": "Scor maxim",
         "minimumScore": "Scor minim",
         "person": "Autorul recenziei",
+        "ratingCount": "Număr de evaluări",
         "ratingCriteria": "Criterii de evaluare",
         "ratingCriterion": "Criteriu de evaluare",
         "ratingCriterionNotFound": "Criteriul de evaluare nu a fost găsit",
-        "ratingCount": "Număr de evaluări",
         "reason": "Motiv",
         "recommended": "Recomandat",
         "recommendedCount": "Număr de recomandări",
@@ -27,7 +26,6 @@
         "reviewReports": "Raportări ale recenziilor",
         "reviewResponses": "Răspunsuri la recenzii",
         "reviews": "Recenzii",
-        "score": "Scor",
         "scoreOutOfRange": "Scorul este în afara intervalului criteriului de evaluare"
     }
 }

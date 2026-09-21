@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "A minimális pontszámnak alacsonyabbnak kell lennie a maximális pontszámnál",
         "invalidReviewResponseParent": "A szülőválasznak ugyanahhoz a véleményhez kell tartoznia",
         "item": "Értékelt elem",
-        "maximumScore": "Maximális pontszám",
         "minimumScore": "Minimális pontszám",
         "person": "Véleményező",
+        "ratingCount": "Értékelések száma",
         "ratingCriteria": "Értékelési szempontok",
         "ratingCriterion": "Értékelési szempont",
         "ratingCriterionNotFound": "Az értékelési szempont nem található",
-        "ratingCount": "Értékelések száma",
         "reason": "Ok",
         "recommended": "Ajánlott",
         "recommendedCount": "Ajánlások száma",
@@ -27,7 +26,6 @@
         "reviewReports": "Jelentett vélemények",
         "reviewResponses": "Válaszok a véleményekre",
         "reviews": "Vélemények",
-        "score": "Pontszám",
         "scoreOutOfRange": "A pontszám kívül esik az értékelési szempont tartományán"
     }
 }

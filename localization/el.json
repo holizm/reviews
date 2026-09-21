@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Η ελάχιστη βαθμολογία πρέπει να είναι χαμηλότερη από τη μέγιστη",
         "invalidReviewResponseParent": "Η γονική απάντηση πρέπει να ανήκει στην ίδια κριτική",
         "item": "Αξιολογημένο στοιχείο",
-        "maximumScore": "Μέγιστη βαθμολογία",
         "minimumScore": "Ελάχιστη βαθμολογία",
         "person": "Συντάκτης κριτικής",
+        "ratingCount": "Πλήθος βαθμολογιών",
         "ratingCriteria": "Κριτήρια βαθμολόγησης",
         "ratingCriterion": "Κριτήριο βαθμολόγησης",
         "ratingCriterionNotFound": "Το κριτήριο βαθμολόγησης δεν βρέθηκε",
-        "ratingCount": "Πλήθος βαθμολογιών",
         "reason": "Αιτία",
         "recommended": "Προτείνεται",
         "recommendedCount": "Πλήθος προτάσεων",
@@ -27,7 +26,6 @@
         "reviewReports": "Αναφορές κριτικών",
         "reviewResponses": "Απαντήσεις σε κριτικές",
         "reviews": "Κριτικές",
-        "score": "Βαθμολογία",
         "scoreOutOfRange": "Η βαθμολογία είναι εκτός του εύρους του κριτηρίου"
     }
 }

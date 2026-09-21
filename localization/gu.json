@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "ન્યૂનતમ સ્કોર મહત્તમ સ્કોર કરતાં ઓછો હોવો જોઈએ",
         "invalidReviewResponseParent": "મુખ્ય પ્રતિભાવ એ જ સમીક્ષાનો હોવો જોઈએ",
         "item": "સમીક્ષા કરેલી વસ્તુ",
-        "maximumScore": "મહત્તમ સ્કોર",
         "minimumScore": "ન્યૂનતમ સ્કોર",
         "person": "સમીક્ષક",
+        "ratingCount": "રેટિંગની સંખ્યા",
         "ratingCriteria": "રેટિંગ માપદંડો",
         "ratingCriterion": "રેટિંગ માપદંડ",
         "ratingCriterionNotFound": "રેટિંગ માપદંડ મળ્યો નથી",
-        "ratingCount": "રેટિંગની સંખ્યા",
         "reason": "કારણ",
         "recommended": "ભલામણ કરેલ",
         "recommendedCount": "ભલામણોની સંખ્યા",
@@ -27,7 +26,6 @@
         "reviewReports": "સમીક્ષા અહેવાલો",
         "reviewResponses": "સમીક્ષા પ્રતિભાવો",
         "reviews": "સમીક્ષાઓ",
-        "score": "સ્કોર",
         "scoreOutOfRange": "સ્કોર રેટિંગ માપદંડની મર્યાદાની બહાર છે"
     }
 }

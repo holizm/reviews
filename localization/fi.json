@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Vähimmäispistemäärän on oltava enimmäispistemäärää pienempi",
         "invalidReviewResponseParent": "Ylemmän vastauksen on kuuluttava samaan arvosteluun",
         "item": "Arvosteltu kohde",
-        "maximumScore": "Enimmäispistemäärä",
         "minimumScore": "Vähimmäispistemäärä",
         "person": "Arvostelija",
+        "ratingCount": "Arvioiden määrä",
         "ratingCriteria": "Arviointikriteerit",
         "ratingCriterion": "Arviointikriteeri",
         "ratingCriterionNotFound": "Arviointikriteeriä ei löytynyt",
-        "ratingCount": "Arvioiden määrä",
         "reason": "Syy",
         "recommended": "Suositeltu",
         "recommendedCount": "Suositusten määrä",
@@ -27,7 +26,6 @@
         "reviewReports": "Ilmoitetut arvostelut",
         "reviewResponses": "Vastaukset arvosteluihin",
         "reviews": "Arvostelut",
-        "score": "Pistemäärä",
         "scoreOutOfRange": "Pistemäärä on arviointikriteerin alueen ulkopuolella"
     }
 }

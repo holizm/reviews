@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "最低分必须低于最高分",
         "invalidReviewResponseParent": "上级回复必须属于同一条评价",
         "item": "被评价项目",
-        "maximumScore": "最高分",
         "minimumScore": "最低分",
         "person": "评价者",
+        "ratingCount": "评分数量",
         "ratingCriteria": "评分标准",
         "ratingCriterion": "评分标准",
         "ratingCriterionNotFound": "未找到评分标准",
-        "ratingCount": "评分数量",
         "reason": "原因",
         "recommended": "推荐",
         "recommendedCount": "推荐数量",
@@ -27,7 +26,6 @@
         "reviewReports": "评价举报",
         "reviewResponses": "评价回复",
         "reviews": "评价",
-        "score": "分数",
         "scoreOutOfRange": "分数超出评分标准范围"
     }
 }

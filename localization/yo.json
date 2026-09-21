@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Ojú àmì tó kéré jù gbọ́dọ̀ kéré ju èyí tó ga jù lọ",
         "invalidReviewResponseParent": "Ìdáhùn òbí gbọ́dọ̀ jẹ́ ti àyẹ̀wò kan náà",
         "item": "Ohun tí a ṣàyẹ̀wò",
-        "maximumScore": "Ojú àmì tó ga jù",
         "minimumScore": "Ojú àmì tó kéré jù",
         "person": "Olùṣàyẹ̀wò",
+        "ratingCount": "Iye àwọn àmì",
         "ratingCriteria": "Àwọn ìlànà ìṣàkóso àmì",
         "ratingCriterion": "Ìlànà ìṣàkóso àmì",
         "ratingCriterionNotFound": "A kò rí ìlànà ìṣàkóso àmì",
-        "ratingCount": "Iye àwọn àmì",
         "reason": "Ìdí",
         "recommended": "A dábàá rẹ̀",
         "recommendedCount": "Iye àwọn ìdábàá",
@@ -27,7 +26,6 @@
         "reviewReports": "Àwọn ìròyìn àyẹ̀wò",
         "reviewResponses": "Àwọn ìdáhùn àyẹ̀wò",
         "reviews": "Àwọn àyẹ̀wò",
-        "score": "Ojú àmì",
         "scoreOutOfRange": "Ojú àmì wà lóde ààlà ìlànà ìṣàkóso àmì"
     }
 }

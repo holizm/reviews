@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "הציון המזערי חייב להיות נמוך מהציון המרבי",
         "invalidReviewResponseParent": "תגובת האב חייבת להשתייך לאותה ביקורת",
         "item": "פריט שנבדק",
-        "maximumScore": "ציון מרבי",
         "minimumScore": "ציון מזערי",
         "person": "כותב הביקורת",
+        "ratingCount": "מספר דירוגים",
         "ratingCriteria": "קריטריונים לדירוג",
         "ratingCriterion": "קריטריון דירוג",
         "ratingCriterionNotFound": "קריטריון הדירוג לא נמצא",
-        "ratingCount": "מספר דירוגים",
         "reason": "סיבה",
         "recommended": "מומלץ",
         "recommendedCount": "מספר המלצות",
@@ -27,7 +26,6 @@
         "reviewReports": "דיווחים על ביקורות",
         "reviewResponses": "תגובות לביקורות",
         "reviews": "ביקורות",
-        "score": "ציון",
         "scoreOutOfRange": "הציון מחוץ לטווח של קריטריון הדירוג"
     }
 }

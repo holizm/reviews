@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Минималната оценка трябва да е по-ниска от максималната",
         "invalidReviewResponseParent": "Родителският отговор трябва да принадлежи към същия отзив",
         "item": "Оценен артикул",
-        "maximumScore": "Максимална оценка",
         "minimumScore": "Минимална оценка",
         "person": "Автор на отзива",
+        "ratingCount": "Брой оценки",
         "ratingCriteria": "Критерии за оценяване",
         "ratingCriterion": "Критерий за оценяване",
         "ratingCriterionNotFound": "Критерият за оценяване не е намерен",
-        "ratingCount": "Брой оценки",
         "reason": "Причина",
         "recommended": "Препоръчано",
         "recommendedCount": "Брой препоръки",
@@ -27,7 +26,6 @@
         "reviewReports": "Сигнали за отзиви",
         "reviewResponses": "Отговори на отзиви",
         "reviews": "Отзиви",
-        "score": "Оценка",
         "scoreOutOfRange": "Оценката е извън диапазона на критерия"
     }
 }

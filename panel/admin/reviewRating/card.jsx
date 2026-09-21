@@ -16,7 +16,7 @@ export default item => <Card>
         value={<Item item={item.ratingCriterion} />}
     />
     <Field
-        label='reviewsScore'
+        label='coreScore'
         value={item.score}
     />
 </Card>

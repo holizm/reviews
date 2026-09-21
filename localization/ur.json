@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "کم از کم اسکور زیادہ سے زیادہ اسکور سے کم ہونا چاہیے",
         "invalidReviewResponseParent": "بنیادی جواب اسی جائزے سے متعلق ہونا چاہیے",
         "item": "جائزہ شدہ شے",
-        "maximumScore": "زیادہ سے زیادہ اسکور",
         "minimumScore": "کم سے کم اسکور",
         "person": "جائزہ نگار",
+        "ratingCount": "درجہ بندیوں کی تعداد",
         "ratingCriteria": "درجہ بندی کے معیارات",
         "ratingCriterion": "درجہ بندی کا معیار",
         "ratingCriterionNotFound": "درجہ بندی کا معیار نہیں ملا",
-        "ratingCount": "درجہ بندیوں کی تعداد",
         "reason": "وجہ",
         "recommended": "تجویز کردہ",
         "recommendedCount": "تجاویز کی تعداد",
@@ -27,7 +26,6 @@
         "reviewReports": "جائزوں کی رپورٹس",
         "reviewResponses": "جائزوں کے جوابات",
         "reviews": "جائزے",
-        "score": "اسکور",
         "scoreOutOfRange": "اسکور درجہ بندی کے معیار کی حد سے باہر ہے"
     }
 }

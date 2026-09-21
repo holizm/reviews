@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "ਘੱਟੋ-ਘੱਟ ਸਕੋਰ ਵੱਧ ਤੋਂ ਵੱਧ ਸਕੋਰ ਤੋਂ ਘੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
         "invalidReviewResponseParent": "ਮੁੱਖ ਜਵਾਬ ਉਸੇ ਸਮੀਖਿਆ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
         "item": "ਸਮੀਖਿਆ ਕੀਤੀ ਵਸਤੂ",
-        "maximumScore": "ਵੱਧ ਤੋਂ ਵੱਧ ਸਕੋਰ",
         "minimumScore": "ਘੱਟ ਤੋਂ ਘੱਟ ਸਕੋਰ",
         "person": "ਸਮੀਖਿਅਕ",
+        "ratingCount": "ਰੇਟਿੰਗਾਂ ਦੀ ਗਿਣਤੀ",
         "ratingCriteria": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ",
         "ratingCriterion": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ",
         "ratingCriterionNotFound": "ਰੇਟਿੰਗ ਮਾਪਦੰਡ ਨਹੀਂ ਮਿਲਿਆ",
-        "ratingCount": "ਰੇਟਿੰਗਾਂ ਦੀ ਗਿਣਤੀ",
         "reason": "ਕਾਰਨ",
         "recommended": "ਸਿਫ਼ਾਰਸ਼ ਕੀਤਾ",
         "recommendedCount": "ਸਿਫ਼ਾਰਸ਼ਾਂ ਦੀ ਗਿਣਤੀ",
@@ -27,7 +26,6 @@
         "reviewReports": "ਸਮੀਖਿਆ ਰਿਪੋਰਟਾਂ",
         "reviewResponses": "ਸਮੀਖਿਆ ਜਵਾਬ",
         "reviews": "ਸਮੀਖਿਆਵਾਂ",
-        "score": "ਸਕੋਰ",
         "scoreOutOfRange": "ਸਕੋਰ ਰੇਟਿੰਗ ਮਾਪਦੰਡ ਦੀ ਸੀਮਾ ਤੋਂ ਬਾਹਰ ਹੈ"
     }
 }

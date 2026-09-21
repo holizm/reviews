@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Laveste poengsum må være lavere enn høyeste poengsum",
         "invalidReviewResponseParent": "Det overordnede svaret må tilhøre samme anmeldelse",
         "item": "Anmeldt element",
-        "maximumScore": "Høyeste poengsum",
         "minimumScore": "Laveste poengsum",
         "person": "Anmelder",
+        "ratingCount": "Antall vurderinger",
         "ratingCriteria": "Vurderingskriterier",
         "ratingCriterion": "Vurderingskriterium",
         "ratingCriterionNotFound": "Vurderingskriteriet ble ikke funnet",
-        "ratingCount": "Antall vurderinger",
         "reason": "Årsak",
         "recommended": "Anbefalt",
         "recommendedCount": "Antall anbefalinger",
@@ -27,7 +26,6 @@
         "reviewReports": "Rapporterte anmeldelser",
         "reviewResponses": "Svar på anmeldelser",
         "reviews": "Anmeldelser",
-        "score": "Poengsum",
         "scoreOutOfRange": "Poengsummen er utenfor området for vurderingskriteriet"
     }
 }

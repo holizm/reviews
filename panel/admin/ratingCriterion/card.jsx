@@ -18,7 +18,7 @@ export default item => <Card>
         value={item.minimumScore}
     />
     <Field
-        label='reviewsMaximumScore'
+        label='coreMaximumScore'
         value={item.maximumScore}
     />
     <Field

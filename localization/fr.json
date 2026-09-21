@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "La note minimale doit être inférieure à la note maximale",
         "invalidReviewResponseParent": "La réponse parente doit appartenir au même avis",
         "item": "Article évalué",
-        "maximumScore": "Note maximale",
         "minimumScore": "Note minimale",
         "person": "Auteur de l’avis",
+        "ratingCount": "Nombre de notes",
         "ratingCriteria": "Critères d’évaluation",
         "ratingCriterion": "Critère d’évaluation",
         "ratingCriterionNotFound": "Le critère d’évaluation est introuvable",
-        "ratingCount": "Nombre de notes",
         "reason": "Motif",
         "recommended": "Recommandé",
         "recommendedCount": "Nombre de recommandations",
@@ -27,7 +26,6 @@
         "reviewReports": "Signalements d’avis",
         "reviewResponses": "Réponses aux avis",
         "reviews": "Avis",
-        "score": "Note",
         "scoreOutOfRange": "La note est hors de la plage du critère d’évaluation"
     }
 }

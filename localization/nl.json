@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "De minimumscore moet lager zijn dan de maximumscore",
         "invalidReviewResponseParent": "Het bovenliggende antwoord moet bij dezelfde beoordeling horen",
         "item": "Beoordeeld item",
-        "maximumScore": "Maximumscore",
         "minimumScore": "Minimumscore",
         "person": "Beoordelaar",
+        "ratingCount": "Aantal waarderingen",
         "ratingCriteria": "Beoordelingscriteria",
         "ratingCriterion": "Beoordelingscriterium",
         "ratingCriterionNotFound": "Het beoordelingscriterium is niet gevonden",
-        "ratingCount": "Aantal waarderingen",
         "reason": "Reden",
         "recommended": "Aanbevolen",
         "recommendedCount": "Aantal aanbevelingen",
@@ -27,7 +26,6 @@
         "reviewReports": "Meldingen van beoordelingen",
         "reviewResponses": "Antwoorden op beoordelingen",
         "reviews": "Beoordelingen",
-        "score": "Score",
         "scoreOutOfRange": "De score valt buiten het bereik van het beoordelingscriterium"
     }
 }

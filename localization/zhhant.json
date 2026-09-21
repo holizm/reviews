@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "最低分必須低於最高分",
         "invalidReviewResponseParent": "上層回覆必須屬於同一則評價",
         "item": "被評價項目",
-        "maximumScore": "最高分",
         "minimumScore": "最低分",
         "person": "評價者",
+        "ratingCount": "評分數量",
         "ratingCriteria": "評分標準",
         "ratingCriterion": "評分標準",
         "ratingCriterionNotFound": "找不到評分標準",
-        "ratingCount": "評分數量",
         "reason": "原因",
         "recommended": "推薦",
         "recommendedCount": "推薦數量",
@@ -27,7 +26,6 @@
         "reviewReports": "評價檢舉",
         "reviewResponses": "評價回覆",
         "reviews": "評價",
-        "score": "分數",
         "scoreOutOfRange": "分數超出評分標準範圍"
     }
 }

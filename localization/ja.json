@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "最低スコアは最高スコアより低くする必要があります",
         "invalidReviewResponseParent": "親返信は同じレビューに属している必要があります",
         "item": "レビュー対象",
-        "maximumScore": "最高スコア",
         "minimumScore": "最低スコア",
         "person": "レビュー投稿者",
+        "ratingCount": "評価数",
         "ratingCriteria": "評価基準",
         "ratingCriterion": "評価基準",
         "ratingCriterionNotFound": "評価基準が見つかりませんでした",
-        "ratingCount": "評価数",
         "reason": "理由",
         "recommended": "おすすめ",
         "recommendedCount": "おすすめ数",
@@ -27,7 +26,6 @@
         "reviewReports": "レビュー報告",
         "reviewResponses": "レビューへの返信",
         "reviews": "レビュー",
-        "score": "スコア",
         "scoreOutOfRange": "スコアが評価基準の範囲外です"
     }
 }

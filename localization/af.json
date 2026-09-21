@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Die minimum telling moet laer as die maksimum telling wees",
         "invalidReviewResponseParent": "Die ouerantwoord moet aan dieselfde resensie behoort",
         "item": "Geresenseerde item",
-        "maximumScore": "Maksimum telling",
         "minimumScore": "Minimum telling",
         "person": "Resensent",
+        "ratingCount": "Aantal graderings",
         "ratingCriteria": "Beoordelingskriteria",
         "ratingCriterion": "Beoordelingskriterium",
         "ratingCriterionNotFound": "Die beoordelingskriterium is nie gevind nie",
-        "ratingCount": "Aantal graderings",
         "reason": "Rede",
         "recommended": "Aanbeveel",
         "recommendedCount": "Aantal aanbevelings",
@@ -27,7 +26,6 @@
         "reviewReports": "Gerapporteerde resensies",
         "reviewResponses": "Antwoorde op resensies",
         "reviews": "Resensies",
-        "score": "Telling",
         "scoreOutOfRange": "Die telling is buite die reeks van die beoordelingskriterium"
     }
 }

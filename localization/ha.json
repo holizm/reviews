@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "Mafi ƙarancin maki dole ya kasance ƙasa da mafi girman maki",
         "invalidReviewResponseParent": "Amsar sama dole ta kasance cikin bita ɗaya",
         "item": "Abin da aka yi wa bita",
-        "maximumScore": "Mafi girman maki",
         "minimumScore": "Mafi ƙarancin maki",
         "person": "Mai bita",
+        "ratingCount": "Yawan ƙimomi",
         "ratingCriteria": "Ka'idojin ƙima",
         "ratingCriterion": "Ma'aunin ƙima",
         "ratingCriterionNotFound": "Ba a sami ma'aunin ƙima ba",
-        "ratingCount": "Yawan ƙimomi",
         "reason": "Dalili",
         "recommended": "An ba da shawara",
         "recommendedCount": "Yawan shawarwari",
@@ -27,7 +26,6 @@
         "reviewReports": "Rahotannin bita",
         "reviewResponses": "Amsoshin bita",
         "reviews": "Bita",
-        "score": "Maki",
         "scoreOutOfRange": "Makin yana wajen iyakar ma'aunin ƙima"
     }
 }

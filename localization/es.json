@@ -8,13 +8,12 @@
         "invalidRatingCriterionRange": "La puntuación mínima debe ser inferior a la máxima",
         "invalidReviewResponseParent": "La respuesta superior debe pertenecer a la misma reseña",
         "item": "Artículo reseñado",
-        "maximumScore": "Puntuación máxima",
         "minimumScore": "Puntuación mínima",
         "person": "Autor de la reseña",
+        "ratingCount": "Número de valoraciones",
         "ratingCriteria": "Criterios de valoración",
         "ratingCriterion": "Criterio de valoración",
         "ratingCriterionNotFound": "No se encontró el criterio de valoración",
-        "ratingCount": "Número de valoraciones",
         "reason": "Motivo",
         "recommended": "Recomendado",
         "recommendedCount": "Número de recomendaciones",
@@ -27,7 +26,6 @@
         "reviewReports": "Denuncias de reseñas",
         "reviewResponses": "Respuestas a reseñas",
         "reviews": "Reseñas",
-        "score": "Puntuación",
         "scoreOutOfRange": "La puntuación está fuera del intervalo del criterio de valoración"
     }
 }
