@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "คะแนนต่ำสุดต้องน้อยกว่าคะแนนสูงสุด",
+        "invalidReviewResponseParent": "คำตอบหลักต้องอยู่ในรีวิวเดียวกัน",
+        "ratingCriterionNotFound": "ไม่พบเกณฑ์การให้คะแนน",
+        "scoreOutOfRange": "คะแนนอยู่นอกช่วงของเกณฑ์การให้คะแนน"
+    },
     "common": {
         "averageScore": "คะแนนเฉลี่ย",
         "code": "รหัส",
         "content": "รีวิว",
         "description": "คำอธิบาย",
         "hasUsedPersonally": "เคยใช้ด้วยตนเอง",
-        "invalidRatingCriterionRange": "คะแนนต่ำสุดต้องน้อยกว่าคะแนนสูงสุด",
-        "invalidReviewResponseParent": "คำตอบหลักต้องอยู่ในรีวิวเดียวกัน",
         "item": "รายการที่รีวิว",
         "minimumScore": "คะแนนต่ำสุด",
         "person": "ผู้รีวิว",
         "ratingCount": "จำนวนการให้คะแนน",
         "ratingCriteria": "เกณฑ์การให้คะแนน",
         "ratingCriterion": "เกณฑ์การให้คะแนน",
-        "ratingCriterionNotFound": "ไม่พบเกณฑ์การให้คะแนน",
         "reason": "เหตุผล",
         "recommended": "แนะนำ",
         "recommendedCount": "จำนวนคำแนะนำ",
         "resolution": "ผลการดำเนินการ",
         "resolvedDate": "วันที่ดำเนินการเสร็จ",
-        "review": "รีวิว",
+        "reviewAggregate": "สรุปรีวิว",
         "reviewAggregates": "สรุปข้อมูลรีวิว",
         "reviewCount": "จำนวนรีวิว",
+        "reviewRating": "คะแนนรีวิว",
         "reviewRatings": "คะแนนรีวิว",
+        "reviewReport": "รายงานรีวิว",
         "reviewReports": "รายงานรีวิว",
-        "reviewResponses": "คำตอบต่อรีวิว",
-        "reviews": "รีวิว",
-        "scoreOutOfRange": "คะแนนอยู่นอกช่วงของเกณฑ์การให้คะแนน"
+        "reviewResponse": "การตอบกลับรีวิว",
+        "reviewResponses": "คำตอบต่อรีวิว"
     }
 }

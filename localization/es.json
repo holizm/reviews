@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "La puntuación mínima debe ser inferior a la máxima",
+        "invalidReviewResponseParent": "La respuesta superior debe pertenecer a la misma reseña",
+        "ratingCriterionNotFound": "No se encontró el criterio de valoración",
+        "scoreOutOfRange": "La puntuación está fuera del intervalo del criterio de valoración"
+    },
     "common": {
         "averageScore": "Puntuación media",
         "code": "Código",
         "content": "Reseña",
         "description": "Descripción",
         "hasUsedPersonally": "Usado personalmente",
-        "invalidRatingCriterionRange": "La puntuación mínima debe ser inferior a la máxima",
-        "invalidReviewResponseParent": "La respuesta superior debe pertenecer a la misma reseña",
         "item": "Artículo reseñado",
         "minimumScore": "Puntuación mínima",
         "person": "Autor de la reseña",
         "ratingCount": "Número de valoraciones",
         "ratingCriteria": "Criterios de valoración",
         "ratingCriterion": "Criterio de valoración",
-        "ratingCriterionNotFound": "No se encontró el criterio de valoración",
         "reason": "Motivo",
         "recommended": "Recomendado",
         "recommendedCount": "Número de recomendaciones",
         "resolution": "Resolución",
         "resolvedDate": "Fecha de resolución",
-        "review": "Reseña",
+        "reviewAggregate": "Agregado de reseñas",
         "reviewAggregates": "Agregados de reseñas",
         "reviewCount": "Número de reseñas",
+        "reviewRating": "Calificación de reseña",
         "reviewRatings": "Valoraciones de reseñas",
+        "reviewReport": "Reporte de reseña",
         "reviewReports": "Denuncias de reseñas",
-        "reviewResponses": "Respuestas a reseñas",
-        "reviews": "Reseñas",
-        "scoreOutOfRange": "La puntuación está fuera del intervalo del criterio de valoración"
+        "reviewResponse": "Respuesta a reseña",
+        "reviewResponses": "Respuestas a reseñas"
     }
 }

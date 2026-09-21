@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "ಕನಿಷ್ಠ ಅಂಕವು ಗರಿಷ್ಠ ಅಂಕಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿರಬೇಕು",
+        "invalidReviewResponseParent": "ಮೂಲ ಪ್ರತಿಕ್ರಿಯೆಯು ಅದೇ ವಿಮರ್ಶೆಗೆ ಸೇರಿರಬೇಕು",
+        "ratingCriterionNotFound": "ರೇಟಿಂಗ್ ಮಾನದಂಡ ಕಂಡುಬಂದಿಲ್ಲ",
+        "scoreOutOfRange": "ಅಂಕವು ರೇಟಿಂಗ್ ಮಾನದಂಡದ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿದೆ"
+    },
     "common": {
         "averageScore": "ಸರಾಸರಿ ಅಂಕ",
         "code": "ಕೋಡ್",
         "content": "ವಿಮರ್ಶೆ",
         "description": "ವಿವರಣೆ",
         "hasUsedPersonally": "ವೈಯಕ್ತಿಕವಾಗಿ ಬಳಸಿದ್ದಾರೆ",
-        "invalidRatingCriterionRange": "ಕನಿಷ್ಠ ಅಂಕವು ಗರಿಷ್ಠ ಅಂಕಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿರಬೇಕು",
-        "invalidReviewResponseParent": "ಮೂಲ ಪ್ರತಿಕ್ರಿಯೆಯು ಅದೇ ವಿಮರ್ಶೆಗೆ ಸೇರಿರಬೇಕು",
         "item": "ವಿಮರ್ಶಿಸಿದ ವಸ್ತು",
         "minimumScore": "ಕನಿಷ್ಠ ಅಂಕ",
         "person": "ವಿಮರ್ಶಕರು",
         "ratingCount": "ರೇಟಿಂಗ್‌ಗಳ ಸಂಖ್ಯೆ",
         "ratingCriteria": "ರೇಟಿಂಗ್ ಮಾನದಂಡಗಳು",
         "ratingCriterion": "ರೇಟಿಂಗ್ ಮಾನದಂಡ",
-        "ratingCriterionNotFound": "ರೇಟಿಂಗ್ ಮಾನದಂಡ ಕಂಡುಬಂದಿಲ್ಲ",
         "reason": "ಕಾರಣ",
         "recommended": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
         "recommendedCount": "ಶಿಫಾರಸುಗಳ ಸಂಖ್ಯೆ",
         "resolution": "ಪರಿಹಾರ",
         "resolvedDate": "ಪರಿಹರಿಸಿದ ದಿನಾಂಕ",
-        "review": "ವಿಮರ್ಶೆ",
+        "reviewAggregate": "ವಿಮರ್ಶೆ ಒಟ್ಟು",
         "reviewAggregates": "ವಿಮರ್ಶೆ ಸಾರಾಂಶಗಳು",
         "reviewCount": "ವಿಮರ್ಶೆಗಳ ಸಂಖ್ಯೆ",
+        "reviewRating": "ವಿಮರ್ಶೆ ರೇಟಿಂಗ್",
         "reviewRatings": "ವಿಮರ್ಶೆ ರೇಟಿಂಗ್‌ಗಳು",
+        "reviewReport": "ವಿಮರ್ಶೆ ವರದಿ",
         "reviewReports": "ವಿಮರ್ಶೆ ವರದಿಗಳು",
-        "reviewResponses": "ವಿಮರ್ಶೆ ಪ್ರತಿಕ್ರಿಯೆಗಳು",
-        "reviews": "ವಿಮರ್ಶೆಗಳು",
-        "scoreOutOfRange": "ಅಂಕವು ರೇಟಿಂಗ್ ಮಾನದಂಡದ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿದೆ"
+        "reviewResponse": "ವಿಮರ್ಶೆ ಪ್ರತಿಕ್ರಿಯೆ",
+        "reviewResponses": "ವಿಮರ್ಶೆ ಪ್ರತಿಕ್ರಿಯೆಗಳು"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Die Mindestpunktzahl muss niedriger als die Höchstpunktzahl sein",
+        "invalidReviewResponseParent": "Die übergeordnete Antwort muss zur selben Rezension gehören",
+        "ratingCriterionNotFound": "Das Bewertungskriterium wurde nicht gefunden",
+        "scoreOutOfRange": "Die Punktzahl liegt außerhalb des Bereichs des Bewertungskriteriums"
+    },
     "common": {
         "averageScore": "Durchschnittliche Punktzahl",
         "code": "Code",
         "content": "Bewertung",
         "description": "Beschreibung",
         "hasUsedPersonally": "Persönlich verwendet",
-        "invalidRatingCriterionRange": "Die Mindestpunktzahl muss niedriger als die Höchstpunktzahl sein",
-        "invalidReviewResponseParent": "Die übergeordnete Antwort muss zur selben Rezension gehören",
         "item": "Bewerteter Artikel",
         "minimumScore": "Mindestpunktzahl",
         "person": "Bewertende Person",
         "ratingCount": "Anzahl der Bewertungen",
         "ratingCriteria": "Bewertungskriterien",
         "ratingCriterion": "Bewertungskriterium",
-        "ratingCriterionNotFound": "Das Bewertungskriterium wurde nicht gefunden",
         "reason": "Grund",
         "recommended": "Empfohlen",
         "recommendedCount": "Anzahl der Empfehlungen",
         "resolution": "Lösung",
         "resolvedDate": "Lösungsdatum",
-        "review": "Rezension",
+        "reviewAggregate": "Rezensionsaggregat",
         "reviewAggregates": "Rezensionsauswertungen",
         "reviewCount": "Anzahl der Rezensionen",
+        "reviewRating": "Bewertung einer Rezension",
         "reviewRatings": "Rezensionsbewertungen",
+        "reviewReport": "Meldung einer Rezension",
         "reviewReports": "Gemeldete Rezensionen",
-        "reviewResponses": "Antworten auf Rezensionen",
-        "reviews": "Rezensionen",
-        "scoreOutOfRange": "Die Punktzahl liegt außerhalb des Bereichs des Bewertungskriteriums"
+        "reviewResponse": "Antwort auf eine Rezension",
+        "reviewResponses": "Antworten auf Rezensionen"
     }
 }

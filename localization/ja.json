@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "最低スコアは最高スコアより低くする必要があります",
+        "invalidReviewResponseParent": "親返信は同じレビューに属している必要があります",
+        "ratingCriterionNotFound": "評価基準が見つかりませんでした",
+        "scoreOutOfRange": "スコアが評価基準の範囲外です"
+    },
     "common": {
         "averageScore": "平均スコア",
         "code": "コード",
         "content": "レビュー",
         "description": "説明",
         "hasUsedPersonally": "本人が使用済み",
-        "invalidRatingCriterionRange": "最低スコアは最高スコアより低くする必要があります",
-        "invalidReviewResponseParent": "親返信は同じレビューに属している必要があります",
         "item": "レビュー対象",
         "minimumScore": "最低スコア",
         "person": "レビュー投稿者",
         "ratingCount": "評価数",
         "ratingCriteria": "評価基準",
         "ratingCriterion": "評価基準",
-        "ratingCriterionNotFound": "評価基準が見つかりませんでした",
         "reason": "理由",
         "recommended": "おすすめ",
         "recommendedCount": "おすすめ数",
         "resolution": "対応結果",
         "resolvedDate": "解決日",
-        "review": "レビュー",
+        "reviewAggregate": "レビュー集計",
         "reviewAggregates": "レビュー集計",
         "reviewCount": "レビュー数",
+        "reviewRating": "レビュー評価",
         "reviewRatings": "レビュー評価",
+        "reviewReport": "レビュー報告",
         "reviewReports": "レビュー報告",
-        "reviewResponses": "レビューへの返信",
-        "reviews": "レビュー",
-        "scoreOutOfRange": "スコアが評価基準の範囲外です"
+        "reviewResponse": "レビュー返信",
+        "reviewResponses": "レビューへの返信"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "ዝቅተኛው ነጥብ ከከፍተኛው ነጥብ ያነሰ መሆን አለበት",
+        "invalidReviewResponseParent": "የወላጅ ምላሽ የዚያው ግምገማ መሆን አለበት",
+        "ratingCriterionNotFound": "የደረጃ መስጫ መስፈርት አልተገኘም",
+        "scoreOutOfRange": "ነጥቡ ከደረጃ መስጫ መስፈርቱ ወሰን ውጭ ነው"
+    },
     "common": {
         "averageScore": "አማካይ ነጥብ",
         "code": "ኮድ",
         "content": "ግምገማ",
         "description": "መግለጫ",
         "hasUsedPersonally": "በግል ተጠቅሟል",
-        "invalidRatingCriterionRange": "ዝቅተኛው ነጥብ ከከፍተኛው ነጥብ ያነሰ መሆን አለበት",
-        "invalidReviewResponseParent": "የወላጅ ምላሽ የዚያው ግምገማ መሆን አለበት",
         "item": "የተገመገመ ንጥል",
         "minimumScore": "ዝቅተኛ ነጥብ",
         "person": "ገምጋሚ",
         "ratingCount": "የደረጃ ብዛት",
         "ratingCriteria": "የደረጃ መስጫ መስፈርቶች",
         "ratingCriterion": "የደረጃ መስጫ መስፈርት",
-        "ratingCriterionNotFound": "የደረጃ መስጫ መስፈርት አልተገኘም",
         "reason": "ምክንያት",
         "recommended": "የሚመከር",
         "recommendedCount": "የምክር ብዛት",
         "resolution": "መፍትሔ",
         "resolvedDate": "የተፈታበት ቀን",
-        "review": "ግምገማ",
+        "reviewAggregate": "የግምገማ ድምር",
         "reviewAggregates": "የግምገማ ማጠቃለያዎች",
         "reviewCount": "የግምገማዎች ብዛት",
+        "reviewRating": "የግምገማ ደረጃ",
         "reviewRatings": "የግምገማ ደረጃዎች",
+        "reviewReport": "የግምገማ ሪፖርት",
         "reviewReports": "የግምገማ ሪፖርቶች",
-        "reviewResponses": "የግምገማ ምላሾች",
-        "reviews": "ግምገማዎች",
-        "scoreOutOfRange": "ነጥቡ ከደረጃ መስጫ መስፈርቱ ወሰን ውጭ ነው"
+        "reviewResponse": "የግምገማ ምላሽ",
+        "reviewResponses": "የግምገማ ምላሾች"
     }
 }

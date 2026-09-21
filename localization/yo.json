@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Ojú àmì tó kéré jù gbọ́dọ̀ kéré ju èyí tó ga jù lọ",
+        "invalidReviewResponseParent": "Ìdáhùn òbí gbọ́dọ̀ jẹ́ ti àyẹ̀wò kan náà",
+        "ratingCriterionNotFound": "A kò rí ìlànà ìṣàkóso àmì",
+        "scoreOutOfRange": "Ojú àmì wà lóde ààlà ìlànà ìṣàkóso àmì"
+    },
     "common": {
         "averageScore": "Àpapọ̀ ìwọ̀n àmì",
         "code": "Kóòdù",
         "content": "Àyẹ̀wò",
         "description": "Àpèjúwe",
         "hasUsedPersonally": "Lò ó fúnra rẹ̀",
-        "invalidRatingCriterionRange": "Ojú àmì tó kéré jù gbọ́dọ̀ kéré ju èyí tó ga jù lọ",
-        "invalidReviewResponseParent": "Ìdáhùn òbí gbọ́dọ̀ jẹ́ ti àyẹ̀wò kan náà",
         "item": "Ohun tí a ṣàyẹ̀wò",
         "minimumScore": "Ojú àmì tó kéré jù",
         "person": "Olùṣàyẹ̀wò",
         "ratingCount": "Iye àwọn àmì",
         "ratingCriteria": "Àwọn ìlànà ìṣàkóso àmì",
         "ratingCriterion": "Ìlànà ìṣàkóso àmì",
-        "ratingCriterionNotFound": "A kò rí ìlànà ìṣàkóso àmì",
         "reason": "Ìdí",
         "recommended": "A dábàá rẹ̀",
         "recommendedCount": "Iye àwọn ìdábàá",
         "resolution": "Ìpinnu",
         "resolvedDate": "Ọjọ́ ìpinnu",
-        "review": "Àyẹ̀wò",
+        "reviewAggregate": "Àkójọpọ̀ àyẹ̀wò",
         "reviewAggregates": "Àwọn àkópọ̀ àyẹ̀wò",
         "reviewCount": "Iye àwọn àyẹ̀wò",
+        "reviewRating": "Ìpele àyẹ̀wò",
         "reviewRatings": "Àwọn àmì àyẹ̀wò",
+        "reviewReport": "Ìròyìn àyẹ̀wò",
         "reviewReports": "Àwọn ìròyìn àyẹ̀wò",
-        "reviewResponses": "Àwọn ìdáhùn àyẹ̀wò",
-        "reviews": "Àwọn àyẹ̀wò",
-        "scoreOutOfRange": "Ojú àmì wà lóde ààlà ìlànà ìṣàkóso àmì"
+        "reviewResponse": "Ìdáhùn àyẹ̀wò",
+        "reviewResponses": "Àwọn ìdáhùn àyẹ̀wò"
     }
 }

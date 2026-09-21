@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Laveste poengsum må være lavere enn høyeste poengsum",
+        "invalidReviewResponseParent": "Det overordnede svaret må tilhøre samme anmeldelse",
+        "ratingCriterionNotFound": "Vurderingskriteriet ble ikke funnet",
+        "scoreOutOfRange": "Poengsummen er utenfor området for vurderingskriteriet"
+    },
     "common": {
         "averageScore": "Gjennomsnittlig poengsum",
         "code": "Kode",
         "content": "Anmeldelse",
         "description": "Beskrivelse",
         "hasUsedPersonally": "Brukt personlig",
-        "invalidRatingCriterionRange": "Laveste poengsum må være lavere enn høyeste poengsum",
-        "invalidReviewResponseParent": "Det overordnede svaret må tilhøre samme anmeldelse",
         "item": "Anmeldt element",
         "minimumScore": "Laveste poengsum",
         "person": "Anmelder",
         "ratingCount": "Antall vurderinger",
         "ratingCriteria": "Vurderingskriterier",
         "ratingCriterion": "Vurderingskriterium",
-        "ratingCriterionNotFound": "Vurderingskriteriet ble ikke funnet",
         "reason": "Årsak",
         "recommended": "Anbefalt",
         "recommendedCount": "Antall anbefalinger",
         "resolution": "Løsning",
         "resolvedDate": "Løsningsdato",
-        "review": "Anmeldelse",
+        "reviewAggregate": "Anmeldelsessammendrag",
         "reviewAggregates": "Anmeldelsessammendrag",
         "reviewCount": "Antall anmeldelser",
+        "reviewRating": "Anmeldelsesvurdering",
         "reviewRatings": "Anmeldelsesvurderinger",
+        "reviewReport": "Rapport om anmeldelse",
         "reviewReports": "Rapporterte anmeldelser",
-        "reviewResponses": "Svar på anmeldelser",
-        "reviews": "Anmeldelser",
-        "scoreOutOfRange": "Poengsummen er utenfor området for vurderingskriteriet"
+        "reviewResponse": "Svar på anmeldelse",
+        "reviewResponses": "Svar på anmeldelser"
     }
 }

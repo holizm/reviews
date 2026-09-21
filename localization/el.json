@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Η ελάχιστη βαθμολογία πρέπει να είναι χαμηλότερη από τη μέγιστη",
+        "invalidReviewResponseParent": "Η γονική απάντηση πρέπει να ανήκει στην ίδια κριτική",
+        "ratingCriterionNotFound": "Το κριτήριο βαθμολόγησης δεν βρέθηκε",
+        "scoreOutOfRange": "Η βαθμολογία είναι εκτός του εύρους του κριτηρίου"
+    },
     "common": {
         "averageScore": "Μέση βαθμολογία",
         "code": "Κωδικός",
         "content": "Κριτική",
         "description": "Περιγραφή",
         "hasUsedPersonally": "Χρησιμοποιήθηκε προσωπικά",
-        "invalidRatingCriterionRange": "Η ελάχιστη βαθμολογία πρέπει να είναι χαμηλότερη από τη μέγιστη",
-        "invalidReviewResponseParent": "Η γονική απάντηση πρέπει να ανήκει στην ίδια κριτική",
         "item": "Αξιολογημένο στοιχείο",
         "minimumScore": "Ελάχιστη βαθμολογία",
         "person": "Συντάκτης κριτικής",
         "ratingCount": "Πλήθος βαθμολογιών",
         "ratingCriteria": "Κριτήρια βαθμολόγησης",
         "ratingCriterion": "Κριτήριο βαθμολόγησης",
-        "ratingCriterionNotFound": "Το κριτήριο βαθμολόγησης δεν βρέθηκε",
         "reason": "Αιτία",
         "recommended": "Προτείνεται",
         "recommendedCount": "Πλήθος προτάσεων",
         "resolution": "Επίλυση",
         "resolvedDate": "Ημερομηνία επίλυσης",
-        "review": "Κριτική",
+        "reviewAggregate": "Σύνολο κριτικών",
         "reviewAggregates": "Συγκεντρωτικά στοιχεία κριτικών",
         "reviewCount": "Πλήθος κριτικών",
+        "reviewRating": "Βαθμολογία κριτικής",
         "reviewRatings": "Βαθμολογίες κριτικών",
+        "reviewReport": "Αναφορά κριτικής",
         "reviewReports": "Αναφορές κριτικών",
-        "reviewResponses": "Απαντήσεις σε κριτικές",
-        "reviews": "Κριτικές",
-        "scoreOutOfRange": "Η βαθμολογία είναι εκτός του εύρους του κριτηρίου"
+        "reviewResponse": "Απάντηση κριτικής",
+        "reviewResponses": "Απαντήσεις σε κριτικές"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Minimalna ocena musi być niższa od maksymalnej",
+        "invalidReviewResponseParent": "Odpowiedź nadrzędna musi należeć do tej samej recenzji",
+        "ratingCriterionNotFound": "Nie znaleziono kryterium oceny",
+        "scoreOutOfRange": "Ocena wykracza poza zakres kryterium oceny"
+    },
     "common": {
         "averageScore": "Średnia ocena",
         "code": "Kod",
         "content": "Recenzja",
         "description": "Opis",
         "hasUsedPersonally": "Używany osobiście",
-        "invalidRatingCriterionRange": "Minimalna ocena musi być niższa od maksymalnej",
-        "invalidReviewResponseParent": "Odpowiedź nadrzędna musi należeć do tej samej recenzji",
         "item": "Recenzowany element",
         "minimumScore": "Minimalna ocena",
         "person": "Recenzent",
         "ratingCount": "Liczba ocen",
         "ratingCriteria": "Kryteria oceny",
         "ratingCriterion": "Kryterium oceny",
-        "ratingCriterionNotFound": "Nie znaleziono kryterium oceny",
         "reason": "Powód",
         "recommended": "Polecany",
         "recommendedCount": "Liczba rekomendacji",
         "resolution": "Rozstrzygnięcie",
         "resolvedDate": "Data rozstrzygnięcia",
-        "review": "Recenzja",
+        "reviewAggregate": "Agregat recenzji",
         "reviewAggregates": "Podsumowania recenzji",
         "reviewCount": "Liczba recenzji",
+        "reviewRating": "Ocena recenzji",
         "reviewRatings": "Oceny recenzji",
+        "reviewReport": "Zgłoszenie recenzji",
         "reviewReports": "Zgłoszenia recenzji",
-        "reviewResponses": "Odpowiedzi na recenzje",
-        "reviews": "Recenzje",
-        "scoreOutOfRange": "Ocena wykracza poza zakres kryterium oceny"
+        "reviewResponse": "Odpowiedź na recenzję",
+        "reviewResponses": "Odpowiedzi na recenzje"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Lägsta poäng måste vara lägre än högsta poäng",
+        "invalidReviewResponseParent": "Det överordnade svaret måste tillhöra samma recension",
+        "ratingCriterionNotFound": "Betygskriteriet hittades inte",
+        "scoreOutOfRange": "Poängen ligger utanför betygskriteriets intervall"
+    },
     "common": {
         "averageScore": "Genomsnittlig poäng",
         "code": "Kod",
         "content": "Recension",
         "description": "Beskrivning",
         "hasUsedPersonally": "Använt personligen",
-        "invalidRatingCriterionRange": "Lägsta poäng måste vara lägre än högsta poäng",
-        "invalidReviewResponseParent": "Det överordnade svaret måste tillhöra samma recension",
         "item": "Recenserat objekt",
         "minimumScore": "Lägsta poäng",
         "person": "Recensent",
         "ratingCount": "Antal betyg",
         "ratingCriteria": "Betygskriterier",
         "ratingCriterion": "Betygskriterium",
-        "ratingCriterionNotFound": "Betygskriteriet hittades inte",
         "reason": "Orsak",
         "recommended": "Rekommenderas",
         "recommendedCount": "Antal rekommendationer",
         "resolution": "Åtgärd",
         "resolvedDate": "Åtgärdsdatum",
-        "review": "Recension",
+        "reviewAggregate": "Recensionssammanställning",
         "reviewAggregates": "Recensionssammanställningar",
         "reviewCount": "Antal recensioner",
+        "reviewRating": "Recensionsbetyg",
         "reviewRatings": "Recensionsbetyg",
+        "reviewReport": "Rapport om recension",
         "reviewReports": "Anmälda recensioner",
-        "reviewResponses": "Svar på recensioner",
-        "reviews": "Recensioner",
-        "scoreOutOfRange": "Poängen ligger utanför betygskriteriets intervall"
+        "reviewResponse": "Svar på recension",
+        "reviewResponses": "Svar på recensioner"
     }
 }

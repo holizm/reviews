@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Најнижа оцена мора бити нижа од највише оцене",
+        "invalidReviewResponseParent": "Надређени одговор мора припадати истој рецензији",
+        "ratingCriterionNotFound": "Критеријум оцењивања није пронађен",
+        "scoreOutOfRange": "Оцена је ван опсега критеријума оцењивања"
+    },
     "common": {
         "averageScore": "Просечна оцена",
         "code": "Шифра",
         "content": "Рецензија",
         "description": "Опис",
         "hasUsedPersonally": "Лично коришћено",
-        "invalidRatingCriterionRange": "Најнижа оцена мора бити нижа од највише оцене",
-        "invalidReviewResponseParent": "Надређени одговор мора припадати истој рецензији",
         "item": "Рецензирани артикал",
         "minimumScore": "Најнижа оцена",
         "person": "Рецензент",
         "ratingCount": "Број оцена",
         "ratingCriteria": "Критеријуми оцењивања",
         "ratingCriterion": "Критеријум оцењивања",
-        "ratingCriterionNotFound": "Критеријум оцењивања није пронађен",
         "reason": "Разлог",
         "recommended": "Препоручено",
         "recommendedCount": "Број препорука",
         "resolution": "Решење",
         "resolvedDate": "Датум решења",
-        "review": "Рецензија",
+        "reviewAggregate": "Збир рецензија",
         "reviewAggregates": "Сажеци рецензија",
         "reviewCount": "Број рецензија",
+        "reviewRating": "Оцена рецензије",
         "reviewRatings": "Оцене рецензија",
+        "reviewReport": "Пријава рецензије",
         "reviewReports": "Пријаве рецензија",
-        "reviewResponses": "Одговори на рецензије",
-        "reviews": "Рецензије",
-        "scoreOutOfRange": "Оцена је ван опсега критеријума оцењивања"
+        "reviewResponse": "Одговор на рецензију",
+        "reviewResponses": "Одговори на рецензије"
     }
 }

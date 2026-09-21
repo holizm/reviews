@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "最低分必须低于最高分",
+        "invalidReviewResponseParent": "上级回复必须属于同一条评价",
+        "ratingCriterionNotFound": "未找到评分标准",
+        "scoreOutOfRange": "分数超出评分标准范围"
+    },
     "common": {
         "averageScore": "平均分",
         "code": "代码",
         "content": "评价",
         "description": "描述",
         "hasUsedPersonally": "本人使用过",
-        "invalidRatingCriterionRange": "最低分必须低于最高分",
-        "invalidReviewResponseParent": "上级回复必须属于同一条评价",
         "item": "被评价项目",
         "minimumScore": "最低分",
         "person": "评价者",
         "ratingCount": "评分数量",
         "ratingCriteria": "评分标准",
         "ratingCriterion": "评分标准",
-        "ratingCriterionNotFound": "未找到评分标准",
         "reason": "原因",
         "recommended": "推荐",
         "recommendedCount": "推荐数量",
         "resolution": "处理结果",
         "resolvedDate": "解决日期",
-        "review": "评价",
+        "reviewAggregate": "评价汇总",
         "reviewAggregates": "评价汇总",
         "reviewCount": "评价数量",
+        "reviewRating": "评价评分",
         "reviewRatings": "评价评分",
+        "reviewReport": "评价举报",
         "reviewReports": "评价举报",
-        "reviewResponses": "评价回复",
-        "reviews": "评价",
-        "scoreOutOfRange": "分数超出评分标准范围"
+        "reviewResponse": "评价回复",
+        "reviewResponses": "评价回复"
     }
 }

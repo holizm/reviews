@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Mafi ƙarancin maki dole ya kasance ƙasa da mafi girman maki",
+        "invalidReviewResponseParent": "Amsar sama dole ta kasance cikin bita ɗaya",
+        "ratingCriterionNotFound": "Ba a sami ma'aunin ƙima ba",
+        "scoreOutOfRange": "Makin yana wajen iyakar ma'aunin ƙima"
+    },
     "common": {
         "averageScore": "Matsakaicin maki",
         "code": "Lamba",
         "content": "Bita",
         "description": "Bayani",
         "hasUsedPersonally": "Ya yi amfani da kansa",
-        "invalidRatingCriterionRange": "Mafi ƙarancin maki dole ya kasance ƙasa da mafi girman maki",
-        "invalidReviewResponseParent": "Amsar sama dole ta kasance cikin bita ɗaya",
         "item": "Abin da aka yi wa bita",
         "minimumScore": "Mafi ƙarancin maki",
         "person": "Mai bita",
         "ratingCount": "Yawan ƙimomi",
         "ratingCriteria": "Ka'idojin ƙima",
         "ratingCriterion": "Ma'aunin ƙima",
-        "ratingCriterionNotFound": "Ba a sami ma'aunin ƙima ba",
         "reason": "Dalili",
         "recommended": "An ba da shawara",
         "recommendedCount": "Yawan shawarwari",
         "resolution": "Mafita",
         "resolvedDate": "Ranar warwarewa",
-        "review": "Bita",
+        "reviewAggregate": "Taƙaitaccen bita",
         "reviewAggregates": "Taƙaitattun bayanan bita",
         "reviewCount": "Yawan bita",
+        "reviewRating": "Matsayin bita",
         "reviewRatings": "Ƙimomin bita",
+        "reviewReport": "Rahoton bita",
         "reviewReports": "Rahotannin bita",
-        "reviewResponses": "Amsoshin bita",
-        "reviews": "Bita",
-        "scoreOutOfRange": "Makin yana wajen iyakar ma'aunin ƙima"
+        "reviewResponse": "Amsar bita",
+        "reviewResponses": "Amsoshin bita"
     }
 }

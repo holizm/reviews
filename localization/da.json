@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Den laveste score skal være lavere end den højeste score",
+        "invalidReviewResponseParent": "Det overordnede svar skal tilhøre den samme anmeldelse",
+        "ratingCriterionNotFound": "Bedømmelseskriteriet blev ikke fundet",
+        "scoreOutOfRange": "Scoren ligger uden for bedømmelseskriteriets interval"
+    },
     "common": {
         "averageScore": "Gennemsnitlig score",
         "code": "Kode",
         "content": "Anmeldelse",
         "description": "Beskrivelse",
         "hasUsedPersonally": "Brugt personligt",
-        "invalidRatingCriterionRange": "Den laveste score skal være lavere end den højeste score",
-        "invalidReviewResponseParent": "Det overordnede svar skal tilhøre den samme anmeldelse",
         "item": "Anmeldt element",
         "minimumScore": "Laveste score",
         "person": "Anmelder",
         "ratingCount": "Antal bedømmelser",
         "ratingCriteria": "Bedømmelseskriterier",
         "ratingCriterion": "Bedømmelseskriterium",
-        "ratingCriterionNotFound": "Bedømmelseskriteriet blev ikke fundet",
         "reason": "Årsag",
         "recommended": "Anbefalet",
         "recommendedCount": "Antal anbefalinger",
         "resolution": "Løsning",
         "resolvedDate": "Løsningsdato",
-        "review": "Anmeldelse",
+        "reviewAggregate": "Anmeldelsesoversigt",
         "reviewAggregates": "Anmeldelsesoversigter",
         "reviewCount": "Antal anmeldelser",
+        "reviewRating": "Anmeldelsesbedømmelse",
         "reviewRatings": "Anmeldelsesbedømmelser",
+        "reviewReport": "Anmeldelsesrapport",
         "reviewReports": "Rapporterede anmeldelser",
-        "reviewResponses": "Svar på anmeldelser",
-        "reviews": "Anmeldelser",
-        "scoreOutOfRange": "Scoren ligger uden for bedømmelseskriteriets interval"
+        "reviewResponse": "Anmeldelsessvar",
+        "reviewResponses": "Svar på anmeldelser"
     }
 }

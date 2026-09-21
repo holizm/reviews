@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Scorul minim trebuie să fie mai mic decât scorul maxim",
+        "invalidReviewResponseParent": "Răspunsul părinte trebuie să aparțină aceleiași recenzii",
+        "ratingCriterionNotFound": "Criteriul de evaluare nu a fost găsit",
+        "scoreOutOfRange": "Scorul este în afara intervalului criteriului de evaluare"
+    },
     "common": {
         "averageScore": "Scor mediu",
         "code": "Cod",
         "content": "Recenzie",
         "description": "Descriere",
         "hasUsedPersonally": "Utilizat personal",
-        "invalidRatingCriterionRange": "Scorul minim trebuie să fie mai mic decât scorul maxim",
-        "invalidReviewResponseParent": "Răspunsul părinte trebuie să aparțină aceleiași recenzii",
         "item": "Articol recenzat",
         "minimumScore": "Scor minim",
         "person": "Autorul recenziei",
         "ratingCount": "Număr de evaluări",
         "ratingCriteria": "Criterii de evaluare",
         "ratingCriterion": "Criteriu de evaluare",
-        "ratingCriterionNotFound": "Criteriul de evaluare nu a fost găsit",
         "reason": "Motiv",
         "recommended": "Recomandat",
         "recommendedCount": "Număr de recomandări",
         "resolution": "Soluționare",
         "resolvedDate": "Data soluționării",
-        "review": "Recenzie",
+        "reviewAggregate": "Agregat de recenzii",
         "reviewAggregates": "Agregări ale recenziilor",
         "reviewCount": "Număr de recenzii",
+        "reviewRating": "Evaluare a recenziei",
         "reviewRatings": "Evaluări ale recenziilor",
+        "reviewReport": "Raportare a recenziei",
         "reviewReports": "Raportări ale recenziilor",
-        "reviewResponses": "Răspunsuri la recenzii",
-        "reviews": "Recenzii",
-        "scoreOutOfRange": "Scorul este în afara intervalului criteriului de evaluare"
+        "reviewResponse": "Răspuns la recenzie",
+        "reviewResponses": "Răspunsuri la recenzii"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Dapat mas mababa ang pinakamababang puntos kaysa pinakamataas na puntos",
+        "invalidReviewResponseParent": "Dapat kabilang sa parehong review ang pangunahing tugon",
+        "ratingCriterionNotFound": "Hindi nakita ang pamantayan sa pag-rate",
+        "scoreOutOfRange": "Nasa labas ng saklaw ng pamantayan sa pag-rate ang puntos"
+    },
     "common": {
         "averageScore": "Average na puntos",
         "code": "Code",
         "content": "Review",
         "description": "Paglalarawan",
         "hasUsedPersonally": "Personal na ginamit",
-        "invalidRatingCriterionRange": "Dapat mas mababa ang pinakamababang puntos kaysa pinakamataas na puntos",
-        "invalidReviewResponseParent": "Dapat kabilang sa parehong review ang pangunahing tugon",
         "item": "Sinuring item",
         "minimumScore": "Pinakamababang puntos",
         "person": "Tagasuri",
         "ratingCount": "Bilang ng rating",
         "ratingCriteria": "Mga pamantayan sa pag-rate",
         "ratingCriterion": "Pamantayan sa pag-rate",
-        "ratingCriterionNotFound": "Hindi nakita ang pamantayan sa pag-rate",
         "reason": "Dahilan",
         "recommended": "Inirerekomenda",
         "recommendedCount": "Bilang ng rekomendasyon",
         "resolution": "Kalutasan",
         "resolvedDate": "Petsa ng paglutas",
-        "review": "Review",
+        "reviewAggregate": "Buod ng review",
         "reviewAggregates": "Mga buod ng review",
         "reviewCount": "Bilang ng review",
+        "reviewRating": "Rating ng review",
         "reviewRatings": "Mga rating ng review",
+        "reviewReport": "Ulat sa review",
         "reviewReports": "Mga ulat tungkol sa review",
-        "reviewResponses": "Mga tugon sa review",
-        "reviews": "Mga review",
-        "scoreOutOfRange": "Nasa labas ng saklaw ng pamantayan sa pag-rate ang puntos"
+        "reviewResponse": "Tugon sa review",
+        "reviewResponses": "Mga tugon sa review"
     }
 }

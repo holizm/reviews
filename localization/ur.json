@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "کم از کم اسکور زیادہ سے زیادہ اسکور سے کم ہونا چاہیے",
+        "invalidReviewResponseParent": "بنیادی جواب اسی جائزے سے متعلق ہونا چاہیے",
+        "ratingCriterionNotFound": "درجہ بندی کا معیار نہیں ملا",
+        "scoreOutOfRange": "اسکور درجہ بندی کے معیار کی حد سے باہر ہے"
+    },
     "common": {
         "averageScore": "اوسط اسکور",
         "code": "کوڈ",
         "content": "جائزہ",
         "description": "تفصیل",
         "hasUsedPersonally": "ذاتی طور پر استعمال کیا",
-        "invalidRatingCriterionRange": "کم از کم اسکور زیادہ سے زیادہ اسکور سے کم ہونا چاہیے",
-        "invalidReviewResponseParent": "بنیادی جواب اسی جائزے سے متعلق ہونا چاہیے",
         "item": "جائزہ شدہ شے",
         "minimumScore": "کم سے کم اسکور",
         "person": "جائزہ نگار",
         "ratingCount": "درجہ بندیوں کی تعداد",
         "ratingCriteria": "درجہ بندی کے معیارات",
         "ratingCriterion": "درجہ بندی کا معیار",
-        "ratingCriterionNotFound": "درجہ بندی کا معیار نہیں ملا",
         "reason": "وجہ",
         "recommended": "تجویز کردہ",
         "recommendedCount": "تجاویز کی تعداد",
         "resolution": "حل",
         "resolvedDate": "حل کی تاریخ",
-        "review": "جائزہ",
+        "reviewAggregate": "جائزوں کا مجموعہ",
         "reviewAggregates": "جائزوں کے خلاصے",
         "reviewCount": "جائزوں کی تعداد",
+        "reviewRating": "جائزے کی درجہ بندی",
         "reviewRatings": "جائزوں کی درجہ بندیاں",
+        "reviewReport": "جائزے کی رپورٹ",
         "reviewReports": "جائزوں کی رپورٹس",
-        "reviewResponses": "جائزوں کے جوابات",
-        "reviews": "جائزے",
-        "scoreOutOfRange": "اسکور درجہ بندی کے معیار کی حد سے باہر ہے"
+        "reviewResponse": "جائزے کا جواب",
+        "reviewResponses": "جائزوں کے جوابات"
     }
 }

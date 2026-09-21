@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Minimální skóre musí být nižší než maximální skóre",
+        "invalidReviewResponseParent": "Nadřazená odpověď musí patřit ke stejné recenzi",
+        "ratingCriterionNotFound": "Kritérium hodnocení nebylo nalezeno",
+        "scoreOutOfRange": "Skóre je mimo rozsah kritéria hodnocení"
+    },
     "common": {
         "averageScore": "Průměrné skóre",
         "code": "Kód",
         "content": "Recenze",
         "description": "Popis",
         "hasUsedPersonally": "Osobně použito",
-        "invalidRatingCriterionRange": "Minimální skóre musí být nižší než maximální skóre",
-        "invalidReviewResponseParent": "Nadřazená odpověď musí patřit ke stejné recenzi",
         "item": "Recenzovaná položka",
         "minimumScore": "Minimální skóre",
         "person": "Recenzent",
         "ratingCount": "Počet hodnocení",
         "ratingCriteria": "Kritéria hodnocení",
         "ratingCriterion": "Kritérium hodnocení",
-        "ratingCriterionNotFound": "Kritérium hodnocení nebylo nalezeno",
         "reason": "Důvod",
         "recommended": "Doporučeno",
         "recommendedCount": "Počet doporučení",
         "resolution": "Vyřešení",
         "resolvedDate": "Datum vyřešení",
-        "review": "Recenze",
+        "reviewAggregate": "Souhrn recenzí",
         "reviewAggregates": "Souhrny recenzí",
         "reviewCount": "Počet recenzí",
+        "reviewRating": "Hodnocení recenze",
         "reviewRatings": "Hodnocení recenzí",
+        "reviewReport": "Hlášení recenze",
         "reviewReports": "Nahlášené recenze",
-        "reviewResponses": "Odpovědi na recenze",
-        "reviews": "Recenze",
-        "scoreOutOfRange": "Skóre je mimo rozsah kritéria hodnocení"
+        "reviewResponse": "Odpověď na recenzi",
+        "reviewResponses": "Odpovědi na recenze"
     }
 }

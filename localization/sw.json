@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Alama ya chini lazima iwe chini ya alama ya juu",
+        "invalidReviewResponseParent": "Jibu kuu lazima liwe la maoni hayo hayo",
+        "ratingCriterionNotFound": "Kigezo cha ukadiriaji hakikupatikana",
+        "scoreOutOfRange": "Alama iko nje ya kiwango cha kigezo cha ukadiriaji"
+    },
     "common": {
         "averageScore": "Alama ya wastani",
         "code": "Msimbo",
         "content": "Maoni",
         "description": "Maelezo",
         "hasUsedPersonally": "Ametumia binafsi",
-        "invalidRatingCriterionRange": "Alama ya chini lazima iwe chini ya alama ya juu",
-        "invalidReviewResponseParent": "Jibu kuu lazima liwe la maoni hayo hayo",
         "item": "Kipengee kilichotathminiwa",
         "minimumScore": "Alama ya chini",
         "person": "Mtoa maoni",
         "ratingCount": "Idadi ya ukadiriaji",
         "ratingCriteria": "Vigezo vya ukadiriaji",
         "ratingCriterion": "Kigezo cha ukadiriaji",
-        "ratingCriterionNotFound": "Kigezo cha ukadiriaji hakikupatikana",
         "reason": "Sababu",
         "recommended": "Imependekezwa",
         "recommendedCount": "Idadi ya mapendekezo",
         "resolution": "Suluhisho",
         "resolvedDate": "Tarehe ya kutatuliwa",
-        "review": "Maoni",
+        "reviewAggregate": "Jumla ya hakiki",
         "reviewAggregates": "Muhtasari wa maoni",
         "reviewCount": "Idadi ya maoni",
+        "reviewRating": "Ukadiriaji wa hakiki",
         "reviewRatings": "Ukadiriaji wa maoni",
+        "reviewReport": "Ripoti ya hakiki",
         "reviewReports": "Ripoti za maoni",
-        "reviewResponses": "Majibu ya maoni",
-        "reviews": "Maoni",
-        "scoreOutOfRange": "Alama iko nje ya kiwango cha kigezo cha ukadiriaji"
+        "reviewResponse": "Jibu la hakiki",
+        "reviewResponses": "Majibu ya maoni"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "အနိမ့်ဆုံးရမှတ်သည် အမြင့်ဆုံးရမှတ်ထက် နည်းရမည်",
+        "invalidReviewResponseParent": "မူလတုံ့ပြန်ချက်သည် တူညီသောသုံးသပ်ချက်နှင့် သက်ဆိုင်ရမည်",
+        "ratingCriterionNotFound": "အဆင့်သတ်မှတ်ချက်စံနှုန်းကို မတွေ့ပါ",
+        "scoreOutOfRange": "ရမှတ်သည် အဆင့်သတ်မှတ်ချက်စံနှုန်း၏ အပိုင်းအခြားပြင်ပတွင် ရှိသည်"
+    },
     "common": {
         "averageScore": "ပျမ်းမျှရမှတ်",
         "code": "ကုဒ်",
         "content": "သုံးသပ်ချက်",
         "description": "ဖော်ပြချက်",
         "hasUsedPersonally": "ကိုယ်တိုင်အသုံးပြုခဲ့သည်",
-        "invalidRatingCriterionRange": "အနိမ့်ဆုံးရမှတ်သည် အမြင့်ဆုံးရမှတ်ထက် နည်းရမည်",
-        "invalidReviewResponseParent": "မူလတုံ့ပြန်ချက်သည် တူညီသောသုံးသပ်ချက်နှင့် သက်ဆိုင်ရမည်",
         "item": "သုံးသပ်ထားသည့်အရာ",
         "minimumScore": "အနိမ့်ဆုံးရမှတ်",
         "person": "သုံးသပ်သူ",
         "ratingCount": "အဆင့်သတ်မှတ်မှုအရေအတွက်",
         "ratingCriteria": "အဆင့်သတ်မှတ်ချက်စံနှုန်းများ",
         "ratingCriterion": "အဆင့်သတ်မှတ်ချက်စံနှုန်း",
-        "ratingCriterionNotFound": "အဆင့်သတ်မှတ်ချက်စံနှုန်းကို မတွေ့ပါ",
         "reason": "အကြောင်းပြချက်",
         "recommended": "အကြံပြုထားသည်",
         "recommendedCount": "အကြံပြုမှုအရေအတွက်",
         "resolution": "ဖြေရှင်းချက်",
         "resolvedDate": "ဖြေရှင်းသည့်ရက်",
-        "review": "သုံးသပ်ချက်",
+        "reviewAggregate": "သုံးသပ်ချက် စုစည်းမှု",
         "reviewAggregates": "သုံးသပ်ချက်အနှစ်ချုပ်များ",
         "reviewCount": "သုံးသပ်ချက်အရေအတွက်",
+        "reviewRating": "သုံးသပ်ချက် အဆင့်",
         "reviewRatings": "သုံးသပ်ချက်အဆင့်များ",
+        "reviewReport": "သုံးသပ်ချက် အစီရင်ခံစာ",
         "reviewReports": "သုံးသပ်ချက်တိုင်ကြားမှုများ",
-        "reviewResponses": "သုံးသပ်ချက်တုံ့ပြန်မှုများ",
-        "reviews": "သုံးသပ်ချက်များ",
-        "scoreOutOfRange": "ရမှတ်သည် အဆင့်သတ်မှတ်ချက်စံနှုန်း၏ အပိုင်းအခြားပြင်ပတွင် ရှိသည်"
+        "reviewResponse": "သုံးသပ်ချက် တုံ့ပြန်ချက်",
+        "reviewResponses": "သုံးသပ်ချက်တုံ့ပြန်မှုများ"
     }
 }

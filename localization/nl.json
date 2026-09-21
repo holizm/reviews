@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "De minimumscore moet lager zijn dan de maximumscore",
+        "invalidReviewResponseParent": "Het bovenliggende antwoord moet bij dezelfde beoordeling horen",
+        "ratingCriterionNotFound": "Het beoordelingscriterium is niet gevonden",
+        "scoreOutOfRange": "De score valt buiten het bereik van het beoordelingscriterium"
+    },
     "common": {
         "averageScore": "Gemiddelde score",
         "code": "Code",
         "content": "Beoordeling",
         "description": "Beschrijving",
         "hasUsedPersonally": "Zelf gebruikt",
-        "invalidRatingCriterionRange": "De minimumscore moet lager zijn dan de maximumscore",
-        "invalidReviewResponseParent": "Het bovenliggende antwoord moet bij dezelfde beoordeling horen",
         "item": "Beoordeeld item",
         "minimumScore": "Minimumscore",
         "person": "Beoordelaar",
         "ratingCount": "Aantal waarderingen",
         "ratingCriteria": "Beoordelingscriteria",
         "ratingCriterion": "Beoordelingscriterium",
-        "ratingCriterionNotFound": "Het beoordelingscriterium is niet gevonden",
         "reason": "Reden",
         "recommended": "Aanbevolen",
         "recommendedCount": "Aantal aanbevelingen",
         "resolution": "Afhandeling",
         "resolvedDate": "Afhandelingsdatum",
-        "review": "Beoordeling",
+        "reviewAggregate": "Recensieaggregaat",
         "reviewAggregates": "Beoordelingsoverzichten",
         "reviewCount": "Aantal beoordelingen",
+        "reviewRating": "Beoordeling van recensie",
         "reviewRatings": "Beoordelingsscores",
+        "reviewReport": "Melding van recensie",
         "reviewReports": "Meldingen van beoordelingen",
-        "reviewResponses": "Antwoorden op beoordelingen",
-        "reviews": "Beoordelingen",
-        "scoreOutOfRange": "De score valt buiten het bereik van het beoordelingscriterium"
+        "reviewResponse": "Reactie op recensie",
+        "reviewResponses": "Antwoorden op beoordelingen"
     }
 }

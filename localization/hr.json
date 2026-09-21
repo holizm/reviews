@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Najniža ocjena mora biti niža od najviše ocjene",
+        "invalidReviewResponseParent": "Nadređeni odgovor mora pripadati istoj recenziji",
+        "ratingCriterionNotFound": "Kriterij ocjenjivanja nije pronađen",
+        "scoreOutOfRange": "Ocjena je izvan raspona kriterija ocjenjivanja"
+    },
     "common": {
         "averageScore": "Prosječna ocjena",
         "code": "Šifra",
         "content": "Recenzija",
         "description": "Opis",
         "hasUsedPersonally": "Osobno korišteno",
-        "invalidRatingCriterionRange": "Najniža ocjena mora biti niža od najviše ocjene",
-        "invalidReviewResponseParent": "Nadređeni odgovor mora pripadati istoj recenziji",
         "item": "Recenzirani artikl",
         "minimumScore": "Najniža ocjena",
         "person": "Recenzent",
         "ratingCount": "Broj ocjena",
         "ratingCriteria": "Kriteriji ocjenjivanja",
         "ratingCriterion": "Kriterij ocjenjivanja",
-        "ratingCriterionNotFound": "Kriterij ocjenjivanja nije pronađen",
         "reason": "Razlog",
         "recommended": "Preporučeno",
         "recommendedCount": "Broj preporuka",
         "resolution": "Rješenje",
         "resolvedDate": "Datum rješenja",
-        "review": "Recenzija",
+        "reviewAggregate": "Sažetak recenzija",
         "reviewAggregates": "Sažeci recenzija",
         "reviewCount": "Broj recenzija",
+        "reviewRating": "Ocjena recenzije",
         "reviewRatings": "Ocjene recenzija",
+        "reviewReport": "Prijava recenzije",
         "reviewReports": "Prijave recenzija",
-        "reviewResponses": "Odgovori na recenzije",
-        "reviews": "Recenzije",
-        "scoreOutOfRange": "Ocjena je izvan raspona kriterija ocjenjivanja"
+        "reviewResponse": "Odgovor na recenziju",
+        "reviewResponses": "Odgovori na recenzije"
     }
 }

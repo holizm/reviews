@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "En düşük puan, en yüksek puandan düşük olmalıdır",
+        "invalidReviewResponseParent": "Üst yanıt aynı incelemeye ait olmalıdır",
+        "ratingCriterionNotFound": "Değerlendirme ölçütü bulunamadı",
+        "scoreOutOfRange": "Puan, değerlendirme ölçütü aralığının dışında"
+    },
     "common": {
         "averageScore": "Ortalama puan",
         "code": "Kod",
         "content": "İnceleme",
         "description": "Açıklama",
         "hasUsedPersonally": "Kişisel olarak kullandı",
-        "invalidRatingCriterionRange": "En düşük puan, en yüksek puandan düşük olmalıdır",
-        "invalidReviewResponseParent": "Üst yanıt aynı incelemeye ait olmalıdır",
         "item": "İncelenen öğe",
         "minimumScore": "En düşük puan",
         "person": "İnceleyen",
         "ratingCount": "Değerlendirme sayısı",
         "ratingCriteria": "Değerlendirme ölçütleri",
         "ratingCriterion": "Değerlendirme ölçütü",
-        "ratingCriterionNotFound": "Değerlendirme ölçütü bulunamadı",
         "reason": "Neden",
         "recommended": "Öneriliyor",
         "recommendedCount": "Öneri sayısı",
         "resolution": "Çözüm",
         "resolvedDate": "Çözüm tarihi",
-        "review": "İnceleme",
+        "reviewAggregate": "İnceleme özeti",
         "reviewAggregates": "İnceleme özetleri",
         "reviewCount": "İnceleme sayısı",
+        "reviewRating": "İnceleme puanı",
         "reviewRatings": "İnceleme puanları",
+        "reviewReport": "İnceleme bildirimi",
         "reviewReports": "İnceleme bildirimleri",
-        "reviewResponses": "İnceleme yanıtları",
-        "reviews": "İncelemeler",
-        "scoreOutOfRange": "Puan, değerlendirme ölçütü aralığının dışında"
+        "reviewResponse": "İnceleme yanıtı",
+        "reviewResponses": "İnceleme yanıtları"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Minimum score must be lower than maximum score",
+        "invalidReviewResponseParent": "The parent response must belong to the same review",
+        "ratingCriterionNotFound": "Rating criterion was not found",
+        "scoreOutOfRange": "Score is outside the rating criterion range"
+    },
     "common": {
         "averageScore": "Average score",
         "code": "Code",
         "content": "Review",
         "description": "Description",
         "hasUsedPersonally": "Used personally",
-        "invalidRatingCriterionRange": "Minimum score must be lower than maximum score",
-        "invalidReviewResponseParent": "The parent response must belong to the same review",
         "item": "Reviewed item",
         "minimumScore": "Minimum score",
         "person": "Reviewer",
         "ratingCount": "Rating count",
         "ratingCriteria": "Rating criteria",
         "ratingCriterion": "Rating criterion",
-        "ratingCriterionNotFound": "Rating criterion was not found",
         "reason": "Reason",
         "recommended": "Recommended",
         "recommendedCount": "Recommended count",
         "resolution": "Resolution",
         "resolvedDate": "Resolved date",
-        "review": "Review",
+        "reviewAggregate": "Review aggregate",
         "reviewAggregates": "Review aggregates",
         "reviewCount": "Review count",
+        "reviewRating": "Review rating",
         "reviewRatings": "Review ratings",
+        "reviewReport": "Review report",
         "reviewReports": "Review reports",
-        "reviewResponses": "Review responses",
-        "reviews": "Reviews",
-        "scoreOutOfRange": "Score is outside the rating criterion range"
+        "reviewResponse": "Review response",
+        "reviewResponses": "Review responses"
     }
 }

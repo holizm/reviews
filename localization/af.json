@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Die minimum telling moet laer as die maksimum telling wees",
+        "invalidReviewResponseParent": "Die ouerantwoord moet aan dieselfde resensie behoort",
+        "ratingCriterionNotFound": "Die beoordelingskriterium is nie gevind nie",
+        "scoreOutOfRange": "Die telling is buite die reeks van die beoordelingskriterium"
+    },
     "common": {
         "averageScore": "Gemiddelde telling",
         "code": "Kode",
         "content": "Resensie",
         "description": "Beskrywing",
         "hasUsedPersonally": "Persoonlik gebruik",
-        "invalidRatingCriterionRange": "Die minimum telling moet laer as die maksimum telling wees",
-        "invalidReviewResponseParent": "Die ouerantwoord moet aan dieselfde resensie behoort",
         "item": "Geresenseerde item",
         "minimumScore": "Minimum telling",
         "person": "Resensent",
         "ratingCount": "Aantal graderings",
         "ratingCriteria": "Beoordelingskriteria",
         "ratingCriterion": "Beoordelingskriterium",
-        "ratingCriterionNotFound": "Die beoordelingskriterium is nie gevind nie",
         "reason": "Rede",
         "recommended": "Aanbeveel",
         "recommendedCount": "Aantal aanbevelings",
         "resolution": "Oplossing",
         "resolvedDate": "Oplossingsdatum",
-        "review": "Resensie",
+        "reviewAggregate": "Resensie-aggregaat",
         "reviewAggregates": "Resensie-opsommings",
         "reviewCount": "Aantal resensies",
+        "reviewRating": "Resensiegradering",
         "reviewRatings": "Resensiegraderings",
+        "reviewReport": "Resensieverslag",
         "reviewReports": "Gerapporteerde resensies",
-        "reviewResponses": "Antwoorde op resensies",
-        "reviews": "Resensies",
-        "scoreOutOfRange": "Die telling is buite die reeks van die beoordelingskriterium"
+        "reviewResponse": "Resensieantwoord",
+        "reviewResponses": "Antwoorde op resensies"
     }
 }

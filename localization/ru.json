@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Минимальная оценка должна быть ниже максимальной",
+        "invalidReviewResponseParent": "Родительский ответ должен относиться к тому же отзыву",
+        "ratingCriterionNotFound": "Критерий оценки не найден",
+        "scoreOutOfRange": "Оценка находится вне диапазона критерия"
+    },
     "common": {
         "averageScore": "Средняя оценка",
         "code": "Код",
         "content": "Отзыв",
         "description": "Описание",
         "hasUsedPersonally": "Использовал лично",
-        "invalidRatingCriterionRange": "Минимальная оценка должна быть ниже максимальной",
-        "invalidReviewResponseParent": "Родительский ответ должен относиться к тому же отзыву",
         "item": "Объект отзыва",
         "minimumScore": "Минимальная оценка",
         "person": "Автор отзыва",
         "ratingCount": "Количество оценок",
         "ratingCriteria": "Критерии оценки",
         "ratingCriterion": "Критерий оценки",
-        "ratingCriterionNotFound": "Критерий оценки не найден",
         "reason": "Причина",
         "recommended": "Рекомендуется",
         "recommendedCount": "Количество рекомендаций",
         "resolution": "Решение",
         "resolvedDate": "Дата решения",
-        "review": "Отзыв",
+        "reviewAggregate": "Сводка отзывов",
         "reviewAggregates": "Сводные данные отзывов",
         "reviewCount": "Количество отзывов",
+        "reviewRating": "Оценка отзыва",
         "reviewRatings": "Оценки отзывов",
+        "reviewReport": "Жалоба на отзыв",
         "reviewReports": "Жалобы на отзывы",
-        "reviewResponses": "Ответы на отзывы",
-        "reviews": "Отзывы",
-        "scoreOutOfRange": "Оценка находится вне диапазона критерия"
+        "reviewResponse": "Ответ на отзыв",
+        "reviewResponses": "Ответы на отзывы"
     }
 }

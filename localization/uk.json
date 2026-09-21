@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Мінімальна оцінка має бути нижчою за максимальну",
+        "invalidReviewResponseParent": "Батьківська відповідь має належати до того самого відгуку",
+        "ratingCriterionNotFound": "Критерій оцінювання не знайдено",
+        "scoreOutOfRange": "Оцінка виходить за межі діапазону критерію"
+    },
     "common": {
         "averageScore": "Середня оцінка",
         "code": "Код",
         "content": "Відгук",
         "description": "Опис",
         "hasUsedPersonally": "Використовував особисто",
-        "invalidRatingCriterionRange": "Мінімальна оцінка має бути нижчою за максимальну",
-        "invalidReviewResponseParent": "Батьківська відповідь має належати до того самого відгуку",
         "item": "Об’єкт відгуку",
         "minimumScore": "Мінімальна оцінка",
         "person": "Автор відгуку",
         "ratingCount": "Кількість оцінок",
         "ratingCriteria": "Критерії оцінювання",
         "ratingCriterion": "Критерій оцінювання",
-        "ratingCriterionNotFound": "Критерій оцінювання не знайдено",
         "reason": "Причина",
         "recommended": "Рекомендовано",
         "recommendedCount": "Кількість рекомендацій",
         "resolution": "Рішення",
         "resolvedDate": "Дата вирішення",
-        "review": "Відгук",
+        "reviewAggregate": "Зведення відгуків",
         "reviewAggregates": "Зведені дані відгуків",
         "reviewCount": "Кількість відгуків",
+        "reviewRating": "Оцінка відгуку",
         "reviewRatings": "Оцінки відгуків",
+        "reviewReport": "Скарга на відгук",
         "reviewReports": "Скарги на відгуки",
-        "reviewResponses": "Відповіді на відгуки",
-        "reviews": "Відгуки",
-        "scoreOutOfRange": "Оцінка виходить за межі діапазону критерію"
+        "reviewResponse": "Відповідь на відгук",
+        "reviewResponses": "Відповіді на відгуки"
     }
 }

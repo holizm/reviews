@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "न्यूनतम अंक अधिकतम अंक से कम होना चाहिए",
+        "invalidReviewResponseParent": "मूल उत्तर उसी समीक्षा से संबंधित होना चाहिए",
+        "ratingCriterionNotFound": "रेटिंग मानदंड नहीं मिला",
+        "scoreOutOfRange": "अंक रेटिंग मानदंड की सीमा से बाहर है"
+    },
     "common": {
         "averageScore": "औसत अंक",
         "code": "कोड",
         "content": "समीक्षा",
         "description": "विवरण",
         "hasUsedPersonally": "व्यक्तिगत रूप से उपयोग किया",
-        "invalidRatingCriterionRange": "न्यूनतम अंक अधिकतम अंक से कम होना चाहिए",
-        "invalidReviewResponseParent": "मूल उत्तर उसी समीक्षा से संबंधित होना चाहिए",
         "item": "समीक्षित वस्तु",
         "minimumScore": "न्यूनतम अंक",
         "person": "समीक्षक",
         "ratingCount": "रेटिंग की संख्या",
         "ratingCriteria": "रेटिंग मानदंड",
         "ratingCriterion": "रेटिंग मानदंड",
-        "ratingCriterionNotFound": "रेटिंग मानदंड नहीं मिला",
         "reason": "कारण",
         "recommended": "अनुशंसित",
         "recommendedCount": "अनुशंसाओं की संख्या",
         "resolution": "समाधान",
         "resolvedDate": "समाधान की तारीख",
-        "review": "समीक्षा",
+        "reviewAggregate": "समीक्षा समुच्चय",
         "reviewAggregates": "समीक्षा सारांश",
         "reviewCount": "समीक्षाओं की संख्या",
+        "reviewRating": "समीक्षा रेटिंग",
         "reviewRatings": "समीक्षा रेटिंग",
+        "reviewReport": "समीक्षा रिपोर्ट",
         "reviewReports": "समीक्षा रिपोर्ट",
-        "reviewResponses": "समीक्षा उत्तर",
-        "reviews": "समीक्षाएँ",
-        "scoreOutOfRange": "अंक रेटिंग मानदंड की सीमा से बाहर है"
+        "reviewResponse": "समीक्षा प्रतिक्रिया",
+        "reviewResponses": "समीक्षा उत्तर"
     }
 }

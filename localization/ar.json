@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "يجب أن يكون أدنى تقييم أقل من أعلى تقييم",
+        "invalidReviewResponseParent": "يجب أن ينتمي الرد الأب إلى المراجعة نفسها",
+        "ratingCriterionNotFound": "لم يتم العثور على معيار التقييم",
+        "scoreOutOfRange": "الدرجة خارج نطاق معيار التقييم"
+    },
     "common": {
         "averageScore": "متوسط التقييم",
         "code": "الرمز",
         "content": "المراجعة",
         "description": "الوصف",
         "hasUsedPersonally": "استخدمه شخصيًا",
-        "invalidRatingCriterionRange": "يجب أن يكون أدنى تقييم أقل من أعلى تقييم",
-        "invalidReviewResponseParent": "يجب أن ينتمي الرد الأب إلى المراجعة نفسها",
         "item": "العنصر المُراجَع",
         "minimumScore": "أدنى تقييم",
         "person": "المراجع",
         "ratingCount": "عدد التقييمات",
         "ratingCriteria": "معايير التقييم",
         "ratingCriterion": "معيار التقييم",
-        "ratingCriterionNotFound": "لم يتم العثور على معيار التقييم",
         "reason": "السبب",
         "recommended": "موصى به",
         "recommendedCount": "عدد التوصيات",
         "resolution": "الإجراء المتخذ",
         "resolvedDate": "تاريخ الحل",
-        "review": "مراجعة",
+        "reviewAggregate": "تجميع المراجعة",
         "reviewAggregates": "ملخصات المراجعات",
         "reviewCount": "عدد المراجعات",
+        "reviewRating": "تقييم المراجعة",
         "reviewRatings": "تقييمات المراجعات",
+        "reviewReport": "بلاغ المراجعة",
         "reviewReports": "بلاغات المراجعات",
-        "reviewResponses": "الردود على المراجعات",
-        "reviews": "المراجعات",
-        "scoreOutOfRange": "الدرجة خارج نطاق معيار التقييم"
+        "reviewResponse": "رد المراجعة",
+        "reviewResponses": "الردود على المراجعات"
     }
 }

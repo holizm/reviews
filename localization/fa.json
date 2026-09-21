@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "کمترین امتیاز باید از بیشترین امتیاز کمتر باشد",
+        "invalidReviewResponseParent": "پاسخ والد باید متعلق به همین نظر باشد",
+        "ratingCriterionNotFound": "معیار امتیازدهی پیدا نشد",
+        "scoreOutOfRange": "امتیاز خارج از بازه معیار امتیازدهی است"
+    },
     "common": {
         "averageScore": "میانگین امتیاز",
         "code": "کد",
         "content": "نظر",
         "description": "توضیحات",
         "hasUsedPersonally": "استفاده شخصی داشته است",
-        "invalidRatingCriterionRange": "کمترین امتیاز باید از بیشترین امتیاز کمتر باشد",
-        "invalidReviewResponseParent": "پاسخ والد باید متعلق به همین نظر باشد",
         "item": "مورد بررسی",
         "minimumScore": "کمترین امتیاز",
         "person": "نظردهنده",
         "ratingCount": "تعداد امتیازها",
         "ratingCriteria": "معیارهای امتیازدهی",
         "ratingCriterion": "معیار امتیازدهی",
-        "ratingCriterionNotFound": "معیار امتیازدهی پیدا نشد",
         "reason": "دلیل",
         "recommended": "پیشنهاد می‌شود",
         "recommendedCount": "تعداد پیشنهادها",
         "resolution": "نتیجه رسیدگی",
         "resolvedDate": "تاریخ رسیدگی",
-        "review": "نظر",
+        "reviewAggregate": "تجمیع نقدها",
         "reviewAggregates": "خلاصه نظرات",
         "reviewCount": "تعداد نظرات",
+        "reviewRating": "امتیاز نقد",
         "reviewRatings": "امتیازهای نظرات",
+        "reviewReport": "گزارش نقد",
         "reviewReports": "گزارش‌های نظرات",
-        "reviewResponses": "پاسخ‌های نظرات",
-        "reviews": "نظرات",
-        "scoreOutOfRange": "امتیاز خارج از بازه معیار امتیازدهی است"
+        "reviewResponse": "پاسخ نقد",
+        "reviewResponses": "پاسخ‌های نظرات"
     }
 }

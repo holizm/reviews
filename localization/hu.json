@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "A minimális pontszámnak alacsonyabbnak kell lennie a maximális pontszámnál",
+        "invalidReviewResponseParent": "A szülőválasznak ugyanahhoz a véleményhez kell tartoznia",
+        "ratingCriterionNotFound": "Az értékelési szempont nem található",
+        "scoreOutOfRange": "A pontszám kívül esik az értékelési szempont tartományán"
+    },
     "common": {
         "averageScore": "Átlagos pontszám",
         "code": "Kód",
         "content": "Vélemény",
         "description": "Leírás",
         "hasUsedPersonally": "Személyesen használta",
-        "invalidRatingCriterionRange": "A minimális pontszámnak alacsonyabbnak kell lennie a maximális pontszámnál",
-        "invalidReviewResponseParent": "A szülőválasznak ugyanahhoz a véleményhez kell tartoznia",
         "item": "Értékelt elem",
         "minimumScore": "Minimális pontszám",
         "person": "Véleményező",
         "ratingCount": "Értékelések száma",
         "ratingCriteria": "Értékelési szempontok",
         "ratingCriterion": "Értékelési szempont",
-        "ratingCriterionNotFound": "Az értékelési szempont nem található",
         "reason": "Ok",
         "recommended": "Ajánlott",
         "recommendedCount": "Ajánlások száma",
         "resolution": "Rendezés",
         "resolvedDate": "Rendezés dátuma",
-        "review": "Vélemény",
+        "reviewAggregate": "Értékelési összesítés",
         "reviewAggregates": "Véleményösszesítések",
         "reviewCount": "Vélemények száma",
+        "reviewRating": "Értékelés minősítése",
         "reviewRatings": "Véleményértékelések",
+        "reviewReport": "Értékelés jelentése",
         "reviewReports": "Jelentett vélemények",
-        "reviewResponses": "Válaszok a véleményekre",
-        "reviews": "Vélemények",
-        "scoreOutOfRange": "A pontszám kívül esik az értékelési szempont tartományán"
+        "reviewResponse": "Válasz az értékelésre",
+        "reviewResponses": "Válaszok a véleményekre"
     }
 }

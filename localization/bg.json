@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Минималната оценка трябва да е по-ниска от максималната",
+        "invalidReviewResponseParent": "Родителският отговор трябва да принадлежи към същия отзив",
+        "ratingCriterionNotFound": "Критерият за оценяване не е намерен",
+        "scoreOutOfRange": "Оценката е извън диапазона на критерия"
+    },
     "common": {
         "averageScore": "Средна оценка",
         "code": "Код",
         "content": "Отзив",
         "description": "Описание",
         "hasUsedPersonally": "Използван лично",
-        "invalidRatingCriterionRange": "Минималната оценка трябва да е по-ниска от максималната",
-        "invalidReviewResponseParent": "Родителският отговор трябва да принадлежи към същия отзив",
         "item": "Оценен артикул",
         "minimumScore": "Минимална оценка",
         "person": "Автор на отзива",
         "ratingCount": "Брой оценки",
         "ratingCriteria": "Критерии за оценяване",
         "ratingCriterion": "Критерий за оценяване",
-        "ratingCriterionNotFound": "Критерият за оценяване не е намерен",
         "reason": "Причина",
         "recommended": "Препоръчано",
         "recommendedCount": "Брой препоръки",
         "resolution": "Решение",
         "resolvedDate": "Дата на решаване",
-        "review": "Отзив",
+        "reviewAggregate": "Обобщение на отзивите",
         "reviewAggregates": "Обобщения на отзивите",
         "reviewCount": "Брой отзиви",
+        "reviewRating": "Оценка на отзив",
         "reviewRatings": "Оценки на отзивите",
+        "reviewReport": "Доклад за отзив",
         "reviewReports": "Сигнали за отзиви",
-        "reviewResponses": "Отговори на отзиви",
-        "reviews": "Отзиви",
-        "scoreOutOfRange": "Оценката е извън диапазона на критерия"
+        "reviewResponse": "Отговор на отзив",
+        "reviewResponses": "Отговори на отзиви"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "最低分必須低於最高分",
+        "invalidReviewResponseParent": "上層回覆必須屬於同一則評價",
+        "ratingCriterionNotFound": "找不到評分標準",
+        "scoreOutOfRange": "分數超出評分標準範圍"
+    },
     "common": {
         "averageScore": "平均分",
         "code": "代碼",
         "content": "評價",
         "description": "描述",
         "hasUsedPersonally": "本人使用過",
-        "invalidRatingCriterionRange": "最低分必須低於最高分",
-        "invalidReviewResponseParent": "上層回覆必須屬於同一則評價",
         "item": "被評價項目",
         "minimumScore": "最低分",
         "person": "評價者",
         "ratingCount": "評分數量",
         "ratingCriteria": "評分標準",
         "ratingCriterion": "評分標準",
-        "ratingCriterionNotFound": "找不到評分標準",
         "reason": "原因",
         "recommended": "推薦",
         "recommendedCount": "推薦數量",
         "resolution": "處理結果",
         "resolvedDate": "解決日期",
-        "review": "評價",
+        "reviewAggregate": "評價彙總",
         "reviewAggregates": "評價彙總",
         "reviewCount": "評價數量",
+        "reviewRating": "評價評分",
         "reviewRatings": "評價評分",
+        "reviewReport": "評價檢舉",
         "reviewReports": "評價檢舉",
-        "reviewResponses": "評價回覆",
-        "reviews": "評價",
-        "scoreOutOfRange": "分數超出評分標準範圍"
+        "reviewResponse": "評價回覆",
+        "reviewResponses": "評價回覆"
     }
 }

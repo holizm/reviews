@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Il punteggio minimo deve essere inferiore al punteggio massimo",
+        "invalidReviewResponseParent": "La risposta principale deve appartenere alla stessa recensione",
+        "ratingCriterionNotFound": "Il criterio di valutazione non è stato trovato",
+        "scoreOutOfRange": "Il punteggio non rientra nell'intervallo del criterio di valutazione"
+    },
     "common": {
         "averageScore": "Punteggio medio",
         "code": "Codice",
         "content": "Recensione",
         "description": "Descrizione",
         "hasUsedPersonally": "Usato personalmente",
-        "invalidRatingCriterionRange": "Il punteggio minimo deve essere inferiore al punteggio massimo",
-        "invalidReviewResponseParent": "La risposta principale deve appartenere alla stessa recensione",
         "item": "Articolo recensito",
         "minimumScore": "Punteggio minimo",
         "person": "Recensore",
         "ratingCount": "Numero di valutazioni",
         "ratingCriteria": "Criteri di valutazione",
         "ratingCriterion": "Criterio di valutazione",
-        "ratingCriterionNotFound": "Il criterio di valutazione non è stato trovato",
         "reason": "Motivo",
         "recommended": "Consigliato",
         "recommendedCount": "Numero di raccomandazioni",
         "resolution": "Risoluzione",
         "resolvedDate": "Data di risoluzione",
-        "review": "Recensione",
+        "reviewAggregate": "Aggregato delle recensioni",
         "reviewAggregates": "Riepiloghi delle recensioni",
         "reviewCount": "Numero di recensioni",
+        "reviewRating": "Valutazione della recensione",
         "reviewRatings": "Valutazioni delle recensioni",
+        "reviewReport": "Segnalazione della recensione",
         "reviewReports": "Segnalazioni delle recensioni",
-        "reviewResponses": "Risposte alle recensioni",
-        "reviews": "Recensioni",
-        "scoreOutOfRange": "Il punteggio non rientra nell'intervallo del criterio di valutazione"
+        "reviewResponse": "Risposta alla recensione",
+        "reviewResponses": "Risposte alle recensioni"
     }
 }

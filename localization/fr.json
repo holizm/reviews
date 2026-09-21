@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "La note minimale doit être inférieure à la note maximale",
+        "invalidReviewResponseParent": "La réponse parente doit appartenir au même avis",
+        "ratingCriterionNotFound": "Le critère d’évaluation est introuvable",
+        "scoreOutOfRange": "La note est hors de la plage du critère d’évaluation"
+    },
     "common": {
         "averageScore": "Note moyenne",
         "code": "Code",
         "content": "Avis",
         "description": "Description",
         "hasUsedPersonally": "Utilisé personnellement",
-        "invalidRatingCriterionRange": "La note minimale doit être inférieure à la note maximale",
-        "invalidReviewResponseParent": "La réponse parente doit appartenir au même avis",
         "item": "Article évalué",
         "minimumScore": "Note minimale",
         "person": "Auteur de l’avis",
         "ratingCount": "Nombre de notes",
         "ratingCriteria": "Critères d’évaluation",
         "ratingCriterion": "Critère d’évaluation",
-        "ratingCriterionNotFound": "Le critère d’évaluation est introuvable",
         "reason": "Motif",
         "recommended": "Recommandé",
         "recommendedCount": "Nombre de recommandations",
         "resolution": "Résolution",
         "resolvedDate": "Date de résolution",
-        "review": "Avis",
+        "reviewAggregate": "Agrégat d’avis",
         "reviewAggregates": "Synthèses des avis",
         "reviewCount": "Nombre d’avis",
+        "reviewRating": "Note d’avis",
         "reviewRatings": "Notes des avis",
+        "reviewReport": "Signalement d’avis",
         "reviewReports": "Signalements d’avis",
-        "reviewResponses": "Réponses aux avis",
-        "reviews": "Avis",
-        "scoreOutOfRange": "La note est hors de la plage du critère d’évaluation"
+        "reviewResponse": "Réponse à l’avis",
+        "reviewResponses": "Réponses aux avis"
     }
 }

@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "ન્યૂનતમ સ્કોર મહત્તમ સ્કોર કરતાં ઓછો હોવો જોઈએ",
+        "invalidReviewResponseParent": "મુખ્ય પ્રતિભાવ એ જ સમીક્ષાનો હોવો જોઈએ",
+        "ratingCriterionNotFound": "રેટિંગ માપદંડ મળ્યો નથી",
+        "scoreOutOfRange": "સ્કોર રેટિંગ માપદંડની મર્યાદાની બહાર છે"
+    },
     "common": {
         "averageScore": "સરેરાશ સ્કોર",
         "code": "કોડ",
         "content": "સમીક્ષા",
         "description": "વર્ણન",
         "hasUsedPersonally": "વ્યક્તિગત રીતે ઉપયોગ કર્યો",
-        "invalidRatingCriterionRange": "ન્યૂનતમ સ્કોર મહત્તમ સ્કોર કરતાં ઓછો હોવો જોઈએ",
-        "invalidReviewResponseParent": "મુખ્ય પ્રતિભાવ એ જ સમીક્ષાનો હોવો જોઈએ",
         "item": "સમીક્ષા કરેલી વસ્તુ",
         "minimumScore": "ન્યૂનતમ સ્કોર",
         "person": "સમીક્ષક",
         "ratingCount": "રેટિંગની સંખ્યા",
         "ratingCriteria": "રેટિંગ માપદંડો",
         "ratingCriterion": "રેટિંગ માપદંડ",
-        "ratingCriterionNotFound": "રેટિંગ માપદંડ મળ્યો નથી",
         "reason": "કારણ",
         "recommended": "ભલામણ કરેલ",
         "recommendedCount": "ભલામણોની સંખ્યા",
         "resolution": "નિરાકરણ",
         "resolvedDate": "નિરાકરણની તારીખ",
-        "review": "સમીક્ષા",
+        "reviewAggregate": "સમીક્ષા એકંદર",
         "reviewAggregates": "સમીક્ષા સારાંશો",
         "reviewCount": "સમીક્ષાઓની સંખ્યા",
+        "reviewRating": "સમીક્ષા રેટિંગ",
         "reviewRatings": "સમીક્ષા રેટિંગ્સ",
+        "reviewReport": "સમીક્ષા અહેવાલ",
         "reviewReports": "સમીક્ષા અહેવાલો",
-        "reviewResponses": "સમીક્ષા પ્રતિભાવો",
-        "reviews": "સમીક્ષાઓ",
-        "scoreOutOfRange": "સ્કોર રેટિંગ માપદંડની મર્યાદાની બહાર છે"
+        "reviewResponse": "સમીક્ષા પ્રતિભાવ",
+        "reviewResponses": "સમીક્ષા પ્રતિભાવો"
     }
 }

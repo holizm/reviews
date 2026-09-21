@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "Skor minimum harus lebih rendah daripada skor maksimum",
+        "invalidReviewResponseParent": "Tanggapan induk harus berasal dari ulasan yang sama",
+        "ratingCriterionNotFound": "Kriteria penilaian tidak ditemukan",
+        "scoreOutOfRange": "Skor berada di luar rentang kriteria penilaian"
+    },
     "common": {
         "averageScore": "Skor rata-rata",
         "code": "Kode",
         "content": "Ulasan",
         "description": "Deskripsi",
         "hasUsedPersonally": "Digunakan sendiri",
-        "invalidRatingCriterionRange": "Skor minimum harus lebih rendah daripada skor maksimum",
-        "invalidReviewResponseParent": "Tanggapan induk harus berasal dari ulasan yang sama",
         "item": "Item yang diulas",
         "minimumScore": "Skor minimum",
         "person": "Pengulas",
         "ratingCount": "Jumlah penilaian",
         "ratingCriteria": "Kriteria penilaian",
         "ratingCriterion": "Kriteria penilaian",
-        "ratingCriterionNotFound": "Kriteria penilaian tidak ditemukan",
         "reason": "Alasan",
         "recommended": "Direkomendasikan",
         "recommendedCount": "Jumlah rekomendasi",
         "resolution": "Penyelesaian",
         "resolvedDate": "Tanggal penyelesaian",
-        "review": "Ulasan",
+        "reviewAggregate": "Agregat ulasan",
         "reviewAggregates": "Ringkasan ulasan",
         "reviewCount": "Jumlah ulasan",
+        "reviewRating": "Peringkat ulasan",
         "reviewRatings": "Penilaian ulasan",
+        "reviewReport": "Laporan ulasan",
         "reviewReports": "Laporan ulasan",
-        "reviewResponses": "Tanggapan ulasan",
-        "reviews": "Ulasan",
-        "scoreOutOfRange": "Skor berada di luar rentang kriteria penilaian"
+        "reviewResponse": "Tanggapan ulasan",
+        "reviewResponses": "Tanggapan ulasan"
     }
 }

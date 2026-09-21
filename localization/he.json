@@ -1,31 +1,35 @@
 {
+    "api": {
+        "invalidRatingCriterionRange": "הציון המזערי חייב להיות נמוך מהציון המרבי",
+        "invalidReviewResponseParent": "תגובת האב חייבת להשתייך לאותה ביקורת",
+        "ratingCriterionNotFound": "קריטריון הדירוג לא נמצא",
+        "scoreOutOfRange": "הציון מחוץ לטווח של קריטריון הדירוג"
+    },
     "common": {
         "averageScore": "ציון ממוצע",
         "code": "קוד",
         "content": "ביקורת",
         "description": "תיאור",
         "hasUsedPersonally": "השתמש באופן אישי",
-        "invalidRatingCriterionRange": "הציון המזערי חייב להיות נמוך מהציון המרבי",
-        "invalidReviewResponseParent": "תגובת האב חייבת להשתייך לאותה ביקורת",
         "item": "פריט שנבדק",
         "minimumScore": "ציון מזערי",
         "person": "כותב הביקורת",
         "ratingCount": "מספר דירוגים",
         "ratingCriteria": "קריטריונים לדירוג",
         "ratingCriterion": "קריטריון דירוג",
-        "ratingCriterionNotFound": "קריטריון הדירוג לא נמצא",
         "reason": "סיבה",
         "recommended": "מומלץ",
         "recommendedCount": "מספר המלצות",
         "resolution": "פתרון",
         "resolvedDate": "תאריך פתרון",
-        "review": "ביקורת",
+        "reviewAggregate": "סיכום ביקורות",
         "reviewAggregates": "סיכומי ביקורות",
         "reviewCount": "מספר ביקורות",
+        "reviewRating": "דירוג ביקורת",
         "reviewRatings": "דירוגי ביקורות",
+        "reviewReport": "דיווח על ביקורת",
         "reviewReports": "דיווחים על ביקורות",
-        "reviewResponses": "תגובות לביקורות",
-        "reviews": "ביקורות",
-        "scoreOutOfRange": "הציון מחוץ לטווח של קריטריון הדירוג"
+        "reviewResponse": "תגובה לביקורת",
+        "reviewResponses": "תגובות לביקורות"
     }
 }
