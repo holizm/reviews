@@ -5,6 +5,7 @@ import {
     generateId,
     parseId,
 } from 'core'
+import synchronizeItem from './synchronizeItem.js'
 
 const relationQuery = (property, id) => {
     const query = {
@@ -67,10 +68,13 @@ export default async relatedItem => {
         recommendedCount: reviews.filter(review => review.recommended === true).length,
         reviewCount: reviews.length,
     }
-    await dbUpsertItem({
+    const savedAggregate = await dbUpsertItem({
         item: aggregate,
         part: 'reviews',
         query: relationQuery('item', itemId),
         type: 'reviewAggregate',
+    })
+    await synchronizeItem({
+        aggregate: savedAggregate,
     })
 }
