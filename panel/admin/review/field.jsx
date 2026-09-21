@@ -4,7 +4,6 @@ import headers from './headers'
 import row from './row'
 
 export default props => <Browse
-    choose={item => item.id}
     filters={filters}
     headers={headers}
     placeholder='reviewsReview'
