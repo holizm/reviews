@@ -1,4 +1,5 @@
-export default ({ review }) => <article class='review'>
+import { Item } from 'core'
+export default ({ review }) => <Item class='review'>
     <h2 class='title'>
         {
             review.title
@@ -14,4 +15,4 @@ export default ({ review }) => <article class='review'>
             review.content
         }
     </div>
-</article>
+</Item>
