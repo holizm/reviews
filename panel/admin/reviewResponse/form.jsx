@@ -16,7 +16,7 @@ const inputs = () => {
             review
             ?
             <Hidden
-                property='review'
+                review
                 value={review}
             />
             :
@@ -29,8 +29,7 @@ const inputs = () => {
             required
         />
         <LongText
-            placeholder='content'
-            property='content'
+            content
             required
         />
     </>

@@ -15,7 +15,7 @@ const inputs = () => {
             review
             ?
             <Hidden
-                property='review'
+                review
                 value={review}
             />
             :
@@ -23,9 +23,8 @@ const inputs = () => {
         }
         <RatingCriterionField required />
         <Numeric
-            placeholder='score'
-            property='score'
             required
+            score
         />
     </>
 }

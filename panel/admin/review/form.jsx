@@ -17,13 +17,12 @@ const inputs = () => {
             item
             ?
             <Hidden
-                property='item'
+                item
                 value={item}
             />
             :
             <Text
-                placeholder='item'
-                property='item'
+                item
                 required
             />
         }
@@ -34,19 +33,16 @@ const inputs = () => {
         />
         <Title />
         <LongText
-            placeholder='content'
-            property='content'
+            content
             required
         />
         <Boolean
-            placeholder='hasUsedPersonally'
-            property='hasUsedPersonally'
+            hasUsedPersonally
             required
         />
         <Boolean
             nullable
-            placeholder='recommended'
-            property='recommended'
+            recommended
         />
     </>
 }

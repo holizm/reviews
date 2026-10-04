@@ -6,8 +6,7 @@ import row from './row'
 export default props => <Browse
     filters={filters}
     headers={headers}
-    placeholder='review'
-    property='review'
+    review
     row={row}
     {...props}
 />

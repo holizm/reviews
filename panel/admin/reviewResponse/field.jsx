@@ -4,8 +4,7 @@ import row from './browseRow'
 
 export default ({ review }) => <Browse
     headers={headers}
-    placeholder='parent'
-    property='parent'
+    parent
     query={{ review }}
     row={row}
 />

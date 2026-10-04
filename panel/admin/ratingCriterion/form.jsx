@@ -9,24 +9,18 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Numeric
-        placeholder='minimumScore'
-        property='minimumScore'
+        minimumScore
         required
     />
     <Numeric
-        placeholder='maximumScore'
-        property='maximumScore'
+        maximumScore
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

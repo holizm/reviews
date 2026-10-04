@@ -16,7 +16,7 @@ const inputs = () => {
             review
             ?
             <Hidden
-                property='review'
+                review
                 value={review}
             />
             :
@@ -28,18 +28,11 @@ const inputs = () => {
             required
         />
         <LongText
-            placeholder='reason'
-            property='reason'
+            reason
             required
         />
-        <DateTime
-            placeholder='resolvedDate'
-            property='resolvedDate'
-        />
-        <LongText
-            placeholder='resolution'
-            property='resolution'
-        />
+        <DateTime resolvedDate />
+        <LongText resolution />
     </>
 }
 
