@@ -3,31 +3,31 @@ export default [
         children: [
             {
                 path: '/reviews/review/list',
-                title: 'reviewsReviews',
+                title: 'reviews',
             },
             {
                 path: '/reviews/ratingCriterion/list',
-                title: 'reviewsRatingCriteria',
+                title: 'ratingCriteria',
             },
             {
                 path: '/reviews/reviewRating/list',
-                title: 'reviewsReviewRatings',
+                title: 'reviewRatings',
             },
             {
                 path: '/reviews/reviewResponse/list',
-                title: 'reviewsReviewResponses',
+                title: 'reviewResponses',
             },
             {
                 path: '/reviews/reviewReport/list',
-                title: 'reviewsReviewReports',
+                title: 'reviewReports',
             },
             {
                 path: '/reviews/reviewAggregate/list',
-                title: 'reviewsReviewAggregates',
+                title: 'reviewAggregates',
             },
         ],
         icon: 'reviews',
         path: '/reviews',
-        title: 'reviewsReviews',
+        title: 'reviews',
     },
 ]

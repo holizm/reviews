@@ -4,7 +4,7 @@ import row from './row'
 
 export default props => <Browse
     headers={headers}
-    placeholder='reviewsRatingCriterion'
+    placeholder='ratingCriterion'
     property='ratingCriterion'
     row={row}
     {...props}

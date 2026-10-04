@@ -8,27 +8,27 @@ import { Item } from 'registry'
 export default item => <Card>
     <Field
         full
-        label='reviewsReview'
+        label='review'
         value={<Item item={item.review} />}
     />
     <Field
         full
-        label='reviewsPerson'
+        label='person'
         value={<Item item={item.person} />}
     />
     <Field
         full
-        label='reviewsReason'
+        label='reason'
         value={item.reason}
     />
     <Field
         component={DateTime}
         date={item.resolvedDate}
-        label='reviewsResolvedDate'
+        label='resolvedDate'
     />
     <Field
         full
-        label='reviewsResolution'
+        label='resolution'
         value={item.resolution}
     />
 </Card>

@@ -24,12 +24,12 @@ const inputs = () => {
         }
         <ResponseField review={review} />
         <ContactsPersonField
-            placeholder='reviewsPerson'
+            placeholder='person'
             property='person'
             required
         />
         <LongText
-            placeholder='reviewsContent'
+            placeholder='content'
             property='content'
             required
         />

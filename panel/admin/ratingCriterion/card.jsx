@@ -6,24 +6,24 @@ import {
 export default item => <Card>
     <Field
         full
-        label='reviewsRatingCriterion'
+        label='ratingCriterion'
         value={item.title}
     />
     <Field
-        label='reviewsCode'
+        label='code'
         value={item.code}
     />
     <Field
-        label='reviewsMinimumScore'
+        label='minimumScore'
         value={item.minimumScore}
     />
     <Field
-        label='coreMaximumScore'
+        label='maximumScore'
         value={item.maximumScore}
     />
     <Field
         full
-        label='reviewsDescription'
+        label='description'
         value={item.description}
     />
 </Card>

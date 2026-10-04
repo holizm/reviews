@@ -13,6 +13,8 @@ review
     hasUsedPersonally yesNo
     recommended yesNo optional
     unique item person
+    uses
+        contacts
 reviewRating
     review
     ratingCriterion
@@ -23,6 +25,8 @@ reviewResponse
     parent optional
     person
     content
+    uses
+        contacts
 reviewReport
     review
     person
@@ -30,6 +34,8 @@ reviewReport
     resolvedDate optional
     resolution optional
     unique review person
+    uses
+        contacts
 reviewAggregate
     item
     reviewCount integer

@@ -23,7 +23,7 @@ const inputs = () => {
         }
         <RatingCriterionField required />
         <Numeric
-            placeholder='coreScore'
+            placeholder='score'
             property='score'
             required
         />

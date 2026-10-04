@@ -1,1 +1,1 @@
-export default <th>reviewsContent</th>
+export default <th>content</th>

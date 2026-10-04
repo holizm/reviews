@@ -23,21 +23,21 @@ const inputs = () => {
             <ReviewField required />
         }
         <ContactsPersonField
-            placeholder='reviewsPerson'
+            placeholder='person'
             property='person'
             required
         />
         <LongText
-            placeholder='reviewsReason'
+            placeholder='reason'
             property='reason'
             required
         />
         <DateTime
-            placeholder='reviewsResolvedDate'
+            placeholder='resolvedDate'
             property='resolvedDate'
         />
         <LongText
-            placeholder='reviewsResolution'
+            placeholder='resolution'
             property='resolution'
         />
     </>

@@ -1,7 +1,7 @@
 export default <>
-    <th start>reviewsItem</th>
-    <th>reviewsReviewCount</th>
-    <th>reviewsRatingCount</th>
-    <th>reviewsAverageScore</th>
-    <th>reviewsRecommendedCount</th>
+    <th start>item</th>
+    <th>reviewCount</th>
+    <th>ratingCount</th>
+    <th>averageScore</th>
+    <th>recommendedCount</th>
 </>

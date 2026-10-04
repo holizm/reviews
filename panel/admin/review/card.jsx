@@ -8,32 +8,32 @@ import { Item } from 'registry'
 export default item => <Card>
     <Field
         full
-        label='reviewsItem'
+        label='item'
         value={<Item item={item.item} />}
     />
     <Field
         full
-        label='reviewsPerson'
+        label='person'
         value={<Item item={item.person} />}
     />
     <Field
         full
-        label='coreTitle'
+        label='title'
         value={item.title}
     />
     <Field
         full
-        label='reviewsContent'
+        label='content'
         value={item.content}
     />
     <Field
         component={BooleanProperty}
-        label='reviewsHasUsedPersonally'
+        label='hasUsedPersonally'
         value={item.hasUsedPersonally}
     />
     <Field
         component={BooleanProperty}
-        label='reviewsRecommended'
+        label='recommended'
         nullable
         value={item.recommended}
     />

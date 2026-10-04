@@ -8,12 +8,12 @@ export default <>
     <Search />
     <ContactsPersonFilter property='person' />
     <Boolean
-        label='reviewsHasUsedPersonally'
+        label='hasUsedPersonally'
         nullable
         property='hasUsedPersonally'
     />
     <Boolean
-        label='reviewsRecommended'
+        label='recommended'
         nullable
         property='recommended'
     />

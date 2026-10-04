@@ -6,11 +6,11 @@ import {
 export default <>
     <Search />
     <Text
-        placeholder='reviewsReview'
+        placeholder='review'
         property='review'
     />
     <Text
-        placeholder='reviewsRatingCriterion'
+        placeholder='ratingCriterion'
         property='ratingCriterion'
     />
 </>

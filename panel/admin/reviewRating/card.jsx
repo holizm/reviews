@@ -7,16 +7,16 @@ import { Item } from 'registry'
 export default item => <Card>
     <Field
         full
-        label='reviewsReview'
+        label='review'
         value={<Item item={item.review} />}
     />
     <Field
         full
-        label='reviewsRatingCriterion'
+        label='ratingCriterion'
         value={<Item item={item.ratingCriterion} />}
     />
     <Field
-        label='coreScore'
+        label='score'
         value={item.score}
     />
 </Card>

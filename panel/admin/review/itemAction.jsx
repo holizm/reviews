@@ -15,6 +15,6 @@ export default () => {
             },
         })}
         icon='reviews'
-        title='reviewsReviews'
+        title='reviews'
     />
 }

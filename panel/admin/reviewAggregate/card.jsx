@@ -7,23 +7,23 @@ import { Item } from 'registry'
 export default item => <Card>
     <Field
         full
-        label='reviewsItem'
+        label='item'
         value={<Item item={item.item} />}
     />
     <Field
-        label='reviewsReviewCount'
+        label='reviewCount'
         value={item.reviewCount}
     />
     <Field
-        label='reviewsRatingCount'
+        label='ratingCount'
         value={item.ratingCount}
     />
     <Field
-        label='reviewsAverageScore'
+        label='averageScore'
         value={item.averageScore}
     />
     <Field
-        label='reviewsRecommendedCount'
+        label='recommendedCount'
         value={item.recommendedCount}
     />
 </Card>

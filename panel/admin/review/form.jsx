@@ -22,30 +22,30 @@ const inputs = () => {
             />
             :
             <Text
-                placeholder='reviewsItem'
+                placeholder='item'
                 property='item'
                 required
             />
         }
         <ContactsPersonField
-            placeholder='reviewsPerson'
+            placeholder='person'
             property='person'
             required
         />
         <Title />
         <LongText
-            placeholder='reviewsContent'
+            placeholder='content'
             property='content'
             required
         />
         <Boolean
-            placeholder='reviewsHasUsedPersonally'
+            placeholder='hasUsedPersonally'
             property='hasUsedPersonally'
             required
         />
         <Boolean
             nullable
-            placeholder='reviewsRecommended'
+            placeholder='recommended'
             property='recommended'
         />
     </>

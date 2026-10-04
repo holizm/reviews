@@ -1,5 +1,5 @@
 export default <>
-    <th start>reviewsReview</th>
-    <th>reviewsRatingCriterion</th>
-    <th>coreScore</th>
+    <th start>review</th>
+    <th>ratingCriterion</th>
+    <th>score</th>
 </>

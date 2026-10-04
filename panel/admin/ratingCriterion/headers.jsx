@@ -1,6 +1,6 @@
 export default <>
-    <th start>reviewsRatingCriterion</th>
-    <th>reviewsCode</th>
-    <th>reviewsMinimumScore</th>
-    <th>coreMaximumScore</th>
+    <th start>ratingCriterion</th>
+    <th>code</th>
+    <th>minimumScore</th>
+    <th>maximumScore</th>
 </>

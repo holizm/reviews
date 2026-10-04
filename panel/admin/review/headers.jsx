@@ -1,8 +1,8 @@
 export default <>
-    <th start>reviewsItem</th>
-    <th>reviewsPerson</th>
-    <th>coreTitle</th>
-    <th>reviewsContent</th>
-    <th>reviewsHasUsedPersonally</th>
-    <th>reviewsRecommended</th>
+    <th start>item</th>
+    <th>person</th>
+    <th>title</th>
+    <th>content</th>
+    <th>hasUsedPersonally</th>
+    <th>recommended</th>
 </>

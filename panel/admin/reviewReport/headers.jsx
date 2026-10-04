@@ -1,7 +1,7 @@
 export default <>
-    <th start>reviewsReview</th>
-    <th>reviewsPerson</th>
-    <th>reviewsReason</th>
-    <th>reviewsResolvedDate</th>
-    <th>reviewsResolution</th>
+    <th start>review</th>
+    <th>person</th>
+    <th>reason</th>
+    <th>resolvedDate</th>
+    <th>resolution</th>
 </>

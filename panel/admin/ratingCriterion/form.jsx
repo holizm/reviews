@@ -9,22 +9,22 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='reviewsCode'
+        placeholder='code'
         property='code'
         required
     />
     <Numeric
-        placeholder='reviewsMinimumScore'
+        placeholder='minimumScore'
         property='minimumScore'
         required
     />
     <Numeric
-        placeholder='coreMaximumScore'
+        placeholder='maximumScore'
         property='maximumScore'
         required
     />
     <LongText
-        placeholder='reviewsDescription'
+        placeholder='description'
         property='description'
     />
 </>

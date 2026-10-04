@@ -4,16 +4,16 @@ export default <>
     <RelatedItemAction
         icon='star'
         path='/reviews/reviewRating/list'
-        title='reviewsReviewRatings'
+        title='reviewRatings'
     />
     <RelatedItemAction
         icon='reply'
         path='/reviews/reviewResponse/list'
-        title='reviewsReviewResponses'
+        title='reviewResponses'
     />
     <RelatedItemAction
         icon='report'
         path='/reviews/reviewReport/list'
-        title='reviewsReviewReports'
+        title='reviewReports'
     />
 </>
